@@ -279,11 +279,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 699.5
+    "width": 483.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,7 +301,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "430d8a72ff8b6b92",
+  "active": "1683c5f0e9b46a3e",
   "lastOpenFiles": [
     "Calendar/Journal/Daily/2026-04-16.md",
     "Calendar/Journal/Daily/2026-04-17.md",
