@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775717151961-oofhypsoq",
+  "title": "Set up Karpathy-style folder structure",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775717151961,
+  "updatedAt": 1775717278699,
+  "lastResponseAt": 1775717278699,
+  "sessionId": "3da3eb37-94e6-4aba-8b3c-5fbde105a39a",
+  "sdkSessionId": "3da3eb37-94e6-4aba-8b3c-5fbde105a39a",
+  "currentNote": "karpathy wiki方法论.md",
+  "usage": {
+    "model": "kimi-k2.5",
+    "inputTokens": 24429,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 24429,
+    "percentage": 12
+  }
+}

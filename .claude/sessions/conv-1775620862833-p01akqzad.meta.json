@@ -1,0 +1,22 @@
+{
+  "id": "conv-1775620862833-p01akqzad",
+  "title": "Summarize work content based on documentation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775620862833,
+  "updatedAt": 1775717014134,
+  "lastResponseAt": 1775627755503,
+  "sessionId": "d23bae3d-6161-4564-a368-6c0840c3612b",
+  "sdkSessionId": "d23bae3d-6161-4564-a368-6c0840c3612b",
+  "previousSdkSessionIds": [
+    "862f8461-e02f-4db3-92a3-c0dd5c91bf9a"
+  ],
+  "usage": {
+    "model": "kimi-k2.5",
+    "inputTokens": 18243,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 18243,
+    "percentage": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775718552183-exo51e64o",
+  "title": "Create local LLM Wiki knowledge base system",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775718552183,
+  "updatedAt": 1776148815971,
+  "lastResponseAt": 1776148815971,
+  "sessionId": "bd8ea1c7-eef3-4354-8c2a-b6ecdaa857c8",
+  "sdkSessionId": "bd8ea1c7-eef3-4354-8c2a-b6ecdaa857c8",
+  "usage": {
+    "model": "kimi-k2.5",
+    "inputTokens": 82063,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 82063,
+    "percentage": 41
+  }
+}

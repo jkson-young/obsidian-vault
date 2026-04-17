@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775198526637-a0atcf56g",
+  "title": "Prepare career transition PPT",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775198526637,
+  "updatedAt": 1775717021120,
+  "lastResponseAt": 1775198802490,
+  "sessionId": null,
+  "sdkSessionId": "124af3d8-a354-4a00-adf8-fdf9e7d34ba9",
+  "usage": {
+    "model": "glm-4.7-flash",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

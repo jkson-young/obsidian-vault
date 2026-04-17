@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775715626894-2qe6fepcc",
+  "title": "List available skills and capabilities",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775715626894,
+  "updatedAt": 1775717013167,
+  "lastResponseAt": 1775715648924,
+  "sessionId": "b0df2b5f-d1e8-4639-affa-6429c64e3336",
+  "sdkSessionId": "b0df2b5f-d1e8-4639-affa-6429c64e3336",
+  "usage": {
+    "model": "kimi-k2.5",
+    "inputTokens": 17753,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 17753,
+    "percentage": 9
+  }
+}

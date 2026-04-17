@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775198067567-o5fyq5mbc",
+  "title": "Say hello in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775198067567,
+  "updatedAt": 1775198409685,
+  "lastResponseAt": 1775198284629,
+  "sessionId": null,
+  "sdkSessionId": "f6f903f7-e810-4877-8bc9-d00146de0316",
+  "usage": {
+    "model": "glm-4.7-flash",
+    "inputTokens": 18962,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42,
+    "contextWindow": 200000,
+    "contextTokens": 19004,
+    "percentage": 10
+  }
+}
