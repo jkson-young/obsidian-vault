@@ -1,10 +1,10 @@
 {
   "id": "conv-1775718552183-exo51e64o",
-  "title": "Create local LLM Wiki knowledge base system",
+  "title": "Greet assistant",
   "titleGenerationStatus": "success",
   "createdAt": 1775718552183,
-  "updatedAt": 1776148815971,
-  "lastResponseAt": 1776148815971,
+  "updatedAt": 1776683017862,
+  "lastResponseAt": 1776683008144,
   "sessionId": "bd8ea1c7-eef3-4354-8c2a-b6ecdaa857c8",
   "sdkSessionId": "bd8ea1c7-eef3-4354-8c2a-b6ecdaa857c8",
   "usage": {
