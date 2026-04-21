@@ -1,19 +1,22 @@
 {
   "id": "conv-1775717151961-oofhypsoq",
-  "title": "Start conversation",
+  "title": "Identify my AI model",
   "titleGenerationStatus": "success",
   "createdAt": 1775717151961,
-  "updatedAt": 1776744480585,
-  "lastResponseAt": 1776744467768,
-  "sessionId": "3da3eb37-94e6-4aba-8b3c-5fbde105a39a",
-  "sdkSessionId": "3da3eb37-94e6-4aba-8b3c-5fbde105a39a",
+  "updatedAt": 1776745006441,
+  "lastResponseAt": 1776745006441,
+  "sessionId": "581be559-cf4e-4919-99bb-f86159a0eddd",
+  "sdkSessionId": "581be559-cf4e-4919-99bb-f86159a0eddd",
+  "previousSdkSessionIds": [
+    "3da3eb37-94e6-4aba-8b3c-5fbde105a39a"
+  ],
   "usage": {
-    "model": "kimi-k2.5",
-    "inputTokens": 24429,
+    "model": "kimi-k2.6",
+    "inputTokens": 23301,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 24429,
+    "contextTokens": 23301,
     "percentage": 12
   }
 }
