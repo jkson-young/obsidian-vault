@@ -24,6 +24,8 @@ views:
       - file.name
     sort:
       - property: formula.date
+        direction: DESC
+      - property: file.name
         direction: ASC
       - property: date
         direction: DESC
