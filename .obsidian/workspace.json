@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/日记模板.md",
+                "file": "Calendar/Journal/Daily/2026-04-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "日记模板"
+              "title": "2026-04-22"
             }
           }
         ],
@@ -279,7 +279,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -298,24 +298,28 @@
       "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "claudian:Open Claudian": false
+      "claudian:Open Claudian": false,
+      "daily-notes:打开/创建今天的日记": false
     }
   },
   "active": "1aca2f085cb1293c",
   "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-04-21.md",
+    "Calendar/Journal/Daily/2026-04-22.md",
+    "2026-04-21.md",
+    "2026-04-22.md",
+    "Templates/日记模板.md",
     "未命名 2.base",
     "未命名 1.base",
     "Templates/Daily-TEMPLATE.md",
     "Calendar/Journal/Daily/2026-04-17.md",
     "Bases/On This Day.base",
-    "Templates/日记模板.md",
     "未命名.base",
     "wiki/log.md",
     "wiki/index.md",
     "wiki/concepts/设备信息上报美团.md",
     "CLAUDE.md",
     "Habits Tracker.md",
-    "Calendar/Journal/Daily/2026-04-21.md",
     "Calendar/Journal/Daily/2026-04-20.md",
     "Calendar/Journal/Daily/2026-04-16.md",
     "Calendar/Journal/Daily/2026-04-15.md",
@@ -330,15 +334,12 @@
     "raw/活动助手切换登录门店.md",
     "转正答辩PPT.md",
     "raw/活动助手切换线上环境.md",
-    "🏠 Home.md",
-    "wiki/sources/易乐途测试环境安装.md",
     "Bases/Calendar.base",
     "wiki/entities/project",
     "wiki/entities/product",
     "wiki/outputs",
     "wiki/sources",
     "wiki/entities",
-    "wiki/concepts",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",

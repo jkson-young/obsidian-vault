@@ -1,5 +1,7 @@
 {
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "daily-card"
+  ],
   "cssTheme": "Blue Topaz",
   "theme": "moonstone"
 }

@@ -1,0 +1,182 @@
+.daily-card {
+  --daily-bg: linear-gradient(180deg, #fffaf5 0%, #f8fbff 100%);
+  --daily-border: #e6e6e7;
+  --daily-shadow: 0 18px 24px rgba(120, 140, 170, 0.10);
+  --daily-radius: 20px;
+}
+
+.daily-card .callout {
+  border: 1px solid var(--daily-border);
+  border-radius: var(--daily-radius);
+  background: var(--daily-bg);
+  box-shadow: var(--daily-shadow);
+  padding: 16px 14px;
+  margin: 16px 0;
+}
+
+.daily-card .callout-title {
+  font-weight: 700;
+  font-size: 1rem;
+  padding-bottom: 4px;
+}
+
+.daily-card .callout-content {
+  font-size: 0.96rem;
+  line-height: 1.75;
+}
+
+.daily-card ul,
+.daily-card ol {
+  margin-top: 6px;
+  margin-bottom: 4px;
+}
+
+.daily-card h1 {
+  margin-bottom: 20px;
+}
+
+.daily-card .callout[data-callout="summary"] {
+  border-left: 6px solid #d6a77e;
+}
+
+.daily-card .callout[data-callout="summary"] .callout-title {
+  color: #d6a77e;
+}
+
+.daily-card .callout[data-callout="summary"] .callout-icon svg {
+  color: #d6a77e;
+  stroke: #d6a77e;
+}
+
+.daily-card .callout[data-callout="tip"] {
+  border-left: 6px solid #7db7ff;
+}
+
+.daily-card .callout[data-callout="tip"] .callout-title {
+  color: #7db7ff;
+}
+
+.daily-card .callout[data-callout="tip"] .callout-icon svg {
+  color: #7db7ff;
+  stroke: #7db7ff;
+}
+
+.daily-card .callout[data-callout="success"] {
+  border-left: 6px solid #7ac9a7;
+}
+
+.daily-card .callout[data-callout="success"] .callout-title {
+  color: #7ac9a7;
+}
+
+.daily-card .callout[data-callout="success"] .callout-icon svg {
+  color: #7ac9a7;
+  stroke: #7ac9a7;
+}
+
+.daily-card .callout[data-callout="todo"] {
+  border-left: 6px solid #c9a2ff;
+}
+
+.daily-card .callout[data-callout="todo"] .callout-title {
+  color: #c9a2ff;
+}
+
+.daily-card .callout[data-callout="todo"] .callout-icon svg {
+  color: #c9a2ff;
+  stroke: #c9a2ff;
+}
+
+.theme-dark .daily-card {
+  --daily-bg: linear-gradient(180deg, #2b2623 0%, #332d29 100%);
+  --daily-border: #4a433e;
+  --daily-shadow: 0 18px 24px rgba(0, 0, 0, 0.32);
+  --daily-radius: 20px;
+
+  /* 自定义文字色 */
+  --daily-text: #f2e7dc;
+  --daily-text-soft: #d2c3b4;
+}
+
+.theme-dark .daily-card .callout {
+  border: 1px solid var(--daily-border);
+  background: var(--daily-bg);
+  box-shadow: var(--daily-shadow);
+}
+
+.theme-dark .daily-card .callout-title {
+  color: var(--daily-text);
+}
+
+.theme-dark .daily-card .callout-content {
+  color: var(--daily-text-soft);
+}
+
+.theme-dark .daily-card ul,
+.theme-dark .daily-card ol,
+.theme-dark .daily-card li,
+.theme-dark .daily-card p {
+  color: var(--daily-text-soft);
+}
+
+.theme-dark .daily-card h1,
+.theme-dark .daily-card h2,
+.theme-dark .daily-card h3 {
+  color: var(--daily-text);
+}
+
+/* summary */
+.theme-dark .daily-card .callout[data-callout="summary"] {
+  border-left: 6px solid #d6a77e;
+}
+
+.theme-dark .daily-card .callout[data-callout="summary"] .callout-title {
+  color: #fbc9a5;
+}
+
+.theme-dark .daily-card .callout[data-callout="summary"] .callout-icon svg {
+  color: #fbc9a5;
+  stroke: #fbc9a5;
+}
+
+/* tip */
+.theme-dark .daily-card .callout[data-callout="tip"] {
+  border-left: 6px solid #7db7ff;
+}
+
+.theme-dark .daily-card .callout[data-callout="tip"] .callout-title {
+  color: #9dccff;
+}
+
+.theme-dark .daily-card .callout[data-callout="tip"] .callout-icon svg {
+  color: #9dccff;
+  stroke: #9dccff;
+}
+
+/* success */
+.theme-dark .daily-card .callout[data-callout="success"] {
+  border-left: 6px solid #7ac9a7;
+}
+
+.theme-dark .daily-card .callout[data-callout="success"] .callout-title {
+  color: #9ee2c3;
+}
+
+.theme-dark .daily-card .callout[data-callout="success"] .callout-icon svg {
+  color: #9ee2c3;
+  stroke: #9ee2c3;
+}
+
+/* todo */
+.theme-dark .daily-card .callout[data-callout="todo"] {
+  border-left: 6px solid #c9a2ff;
+}
+
+.theme-dark .daily-card .callout[data-callout="todo"] .callout-title {
+  color: #dcbcff;
+}
+
+.theme-dark .daily-card .callout[data-callout="todo"] .callout-icon svg {
+  color: #dcbcff;
+  stroke: #dcbcff;
+}
