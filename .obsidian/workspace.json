@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/CLAUDE.md",
+                "file": "llm-wiki/log/20260422.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "20260422"
             }
           }
         ],
@@ -245,12 +245,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "1683c5f0e9b46a3e",
+  "active": "210511afb96ebbe6",
   "lastOpenFiles": [
-    "llm-wiki/CLAUDE.md.tmp.34036.1776829497349",
     "llm-wiki/wiki/index.md",
-    "CLAUDE.md",
     "llm-wiki/CLAUDE.md",
+    "llm-wiki/CLAUDE.md.tmp.34036.1776829497349",
+    "CLAUDE.md",
     "llm-wiki/log/20260422.md",
     "llm-wiki/wiki/index.md.tmp.34036.1776828927295",
     "llm-wiki/log/20260422.md.tmp.34036.1776828921171",
@@ -261,7 +261,6 @@
     "llm-wiki/raw/papers",
     "llm-wiki/raw/refs",
     "llm-wiki/raw/articles",
-    "llm-wiki/raw/notes",
     "karpathy wiki方法论.md",
     "wiki/index.md",
     "易乐途测试环境安装.md",

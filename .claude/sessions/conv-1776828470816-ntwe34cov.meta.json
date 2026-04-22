@@ -3,17 +3,17 @@
   "title": "Say hello",
   "titleGenerationStatus": "success",
   "createdAt": 1776828470817,
-  "updatedAt": 1776828959908,
-  "lastResponseAt": 1776828959908,
+  "updatedAt": 1776829506466,
+  "lastResponseAt": 1776829506466,
   "sessionId": "28185c0f-4718-4f54-991f-ade7c55dc26b",
   "sdkSessionId": "28185c0f-4718-4f54-991f-ade7c55dc26b",
   "usage": {
     "model": "kimi-k2.6",
-    "inputTokens": 34599,
+    "inputTokens": 37815,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 34599,
-    "percentage": 17
+    "contextTokens": 37815,
+    "percentage": 19
   }
 }
