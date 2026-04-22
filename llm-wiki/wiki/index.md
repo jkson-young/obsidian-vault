@@ -13,6 +13,9 @@
 - [[concepts/Claude Code]] — Anthropic 的命令行 Agent，可读写文件、执行命令
 - [[concepts/LLM作为思考伙伴]] — 将 LLM 用作协同思考者而非单纯执行者
 
+### Prompt Engineering
+- [[concepts/提示工程]] — 通过世界构建和上下文碎片引导 LLM 输出高质量结果
+
 ## 个人知识管理
 
 ### 笔记与知识系统
@@ -32,6 +35,7 @@
 
 ### 人物
 - [[entities/Vin]] — Internet Vin，Obsidian + Claude Code 深度实践者
+- [[entities/Varun Mayya]] — 创业者、内容创作者，提示工程世界构建理论的提出者
 - [[entities/Greg Isenberg]] — Startup Ideas 播客主持人
 
 ### 工具与组织
@@ -41,6 +45,7 @@
 
 - 2026-04-22 — [[summaries/how-i-use-obsidian-claude-code]] — Vin 展示如何用 Obsidian + Claude Code 构建个人操作系统
 - 2026-04-22 — [[summaries/obsidian-claude-codebook]] — 12 个自定义 slash 命令的完整操作手册与 prompt 模板
+- 2026-04-22 — [[summaries/99-percent-prompt-ai-wrong]] — Varun Mayya 拆解 10 个提示工程技巧与世界构建理论
 
 ---
 

@@ -3,17 +3,17 @@
   "title": "Ingest Obsidian and Claude Codebook doc",
   "titleGenerationStatus": "success",
   "createdAt": 1776838374548,
-  "updatedAt": 1776839478368,
-  "lastResponseAt": 1776839478368,
+  "updatedAt": 1776840324328,
+  "lastResponseAt": 1776840324328,
   "sessionId": "1f84fb3a-6060-46cd-8946-334cae042f1d",
   "sdkSessionId": "1f84fb3a-6060-46cd-8946-334cae042f1d",
   "usage": {
     "model": "kimi-k2.6",
-    "inputTokens": 45494,
+    "inputTokens": 56601,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 45494,
-    "percentage": 23
+    "contextTokens": 56601,
+    "percentage": 28
   }
 }
