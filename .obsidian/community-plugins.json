@@ -11,5 +11,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "obsidian-tasks-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "llm-wiki-audit"
 ]
