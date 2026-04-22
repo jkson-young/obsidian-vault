@@ -22,8 +22,19 @@
               "icon": "lucide-file",
               "title": "🏠 Home"
             }
+          },
+          {
+            "id": "0f373be69c6b1cae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,10 +233,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3ea4459616f7ae8",
+  "active": "0f373be69c6b1cae",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
     "🏠 Home.md",
+    "Untitled Kanban.md",
     "Calendar/Journal/Daily/2026-04-22.md",
     "Calendar/Journal/Daily/2026-04-23.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
