@@ -1,0 +1,94 @@
+# 综合知识库
+
+> Schema document — read at the start of every session together with `wiki/index.md`.
+> Update after every major compile, ingest batch, or structural change.
+
+## Scope
+
+本知识库覆盖三大领域，形成互相交织的知识网络：
+
+**1. AI / 技术研究**
+- 前沿论文、工具、框架的跟踪与消化
+- 大模型、Agent、RAG、Prompt Engineering 等概念
+- 代码实现、实验记录、性能对比
+
+**2. 个人知识管理**
+- 读书笔记、课程学习、技能习得
+- 思维模型、方法论、决策框架
+- 日常灵感、反思、长期关注的主题
+
+**3. 工作项目**
+- 业务文档、项目知识、流程规范
+- 工具使用、环境配置、踩坑记录
+- 跨团队协作、会议纪要、决策历史
+
+### 排除范围
+- 纯生活琐事（无知识沉淀价值的流水账）
+- 与以上三大领域完全无关的临时文件
+- 大型二进制文件（使用 raw/refs/ 指针文件管理）
+
+## Operations
+
+本知识库遵循 llm-wiki skill 的五种操作：`compile`, `ingest`, `query`, `lint`, `audit`。
+每次操作后追加记录到 `log/YYYYMMDD.md`。
+
+## Naming conventions
+
+### 页面命名
+- **概念页** (`wiki/concepts/`): Title Case 名词短语，中文优先。例如 `wiki/concepts/RAG.md` 或 `wiki/concepts/注意力机制.md`
+- **分 folder 概念页** (`wiki/concepts/<topic>/`): 当主题超过 ~1200 词时使用。包含 `index.md` + 每个方面一个文件。
+- **实体页** (`wiki/entities/`): 专有名词（人名、工具名、组织名、论文名）。例如 `wiki/entities/Claude.md`, `wiki/entities/Transformer论文.md`
+- **摘要页** (`wiki/summaries/`): kebab-case 源文件 slug。例如 `wiki/summaries/attention-is-all-you-need.md`
+
+### 分类标签
+- `#ai-research` — AI/技术研究相关内容
+- `#pkm` — 个人知识管理相关内容
+- `#work` — 工作项目相关内容
+- `#concept` — 概念页
+- `#entity` — 实体页
+- `#summary` — 摘要页
+- `#output` — 查询产出
+
+所有页面需要 YAML frontmatter: `title`, `type`, `created`, `updated`, `sources`, `tags`。
+
+### 图表与公式
+- 所有流程图、架构图、状态图必须使用 **mermaid**。禁止 ASCII 艺术。
+- 所有公式必须使用 **KaTeX**: 行内 `$...$` 或块级 `$$...$$`。
+
+### Raw 文件策略
+- 小型文本源（md, txt, 小 pdf）→ 复制到 `raw/<subfolder>/`。
+- 大型二进制文件（视频、模型权重、安装包、数据集、>10 MB 的 PDF）→ 创建指针文件于 `raw/refs/<slug>.md`，包含 `kind: ref` 和 `external_path` 字段。不要复制二进制文件。
+
+## Current articles
+
+### Concepts
+*(none yet — update after first ingest)*
+
+### Entities
+*(none yet)*
+
+### Summaries
+*(none yet)*
+
+## Open research questions
+
+- Q1: 如何设计一个高效的 RAG 系统，兼顾召回率与响应速度？
+- Q2: 个人知识管理中，如何平衡「收集」与「消化」的比例？
+- Q3: 工作项目中，哪些知识最适合用 wiki 沉淀，哪些适合用传统文档？
+
+## Research gaps
+
+待摄入的源：
+- [ ] <URL 或论文标题> — 为什么相关
+
+## Audit backlog
+
+*(none — run `python3 scripts/audit_review.py llm-wiki --open` to refresh)*
+
+## Notes for the LLM
+
+- **Language**: 中文为主，技术术语保留英文原文并附中文解释
+- **Tone**: 中性、清晰、结构化
+- **Depth**: 概念页深入浅出（定义 + 原理 + 应用），实体页聚焦事实与关联
+- **Handling contradictions**: 陈述双方观点，分别引用来源，加入 Open Research Questions
+- **Cross-linking**: 积极使用 `[[...]]` 建立页面间关联，尤其要打通 AI 研究 ↔ 个人知识管理 ↔ 工作项目 三大领域的连接
