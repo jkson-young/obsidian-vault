@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/log.md",
+                "file": "Calendar/Journal/Daily/2026-04-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "2026-04-21"
             }
           }
         ],
@@ -245,9 +245,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "43daed8b029a1482",
+  "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
     "Calendar/Journal/Daily/2026-04-22.md",
+    "Calendar/Journal/Daily/2026-04-21.md",
+    "wiki/log.md",
     "Bases/Calendar.base",
     "Calendar/Journal/Daily/2026-04-13.md",
     "Habits Tracker.md",
@@ -257,7 +259,6 @@
     "未命名.base",
     "金字塔原理.md",
     "Templates/日记模板.md",
-    "Calendar/Journal/Daily/2026-04-21.md",
     "Templates/Daily-TEMPLATE.md",
     "Calendar/Journal/Daily/2026-04-09.md",
     "都2026了，你还不会用Obsidian？.md",
@@ -273,7 +274,6 @@
     "2026-04-22.md",
     "Calendar/Journal/Daily/2026-04-17.md",
     "Bases/On This Day.base",
-    "wiki/log.md",
     "wiki/index.md",
     "wiki/concepts/设备信息上报美团.md",
     "CLAUDE.md",
