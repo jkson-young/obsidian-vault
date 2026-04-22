@@ -40,6 +40,7 @@
 ## Summaries (chronological)
 
 - 2026-04-22 — [[summaries/how-i-use-obsidian-claude-code]] — Vin 展示如何用 Obsidian + Claude Code 构建个人操作系统
+- 2026-04-22 — [[summaries/obsidian-claude-codebook]] — 12 个自定义 slash 命令的完整操作手册与 prompt 模板
 
 ---
 

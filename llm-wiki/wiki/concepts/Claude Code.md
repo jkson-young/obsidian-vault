@@ -5,6 +5,7 @@ created: 2026-04-22
 updated: 2026-04-22
 sources:
   - "[[summaries/how-i-use-obsidian-claude-code]]"
+  - "[[summaries/obsidian-claude-codebook]]"
 tags: [ai-research, tools, agents]
 related:
   - "[[concepts/Obsidian]]"

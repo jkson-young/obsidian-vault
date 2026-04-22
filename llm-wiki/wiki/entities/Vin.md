@@ -5,6 +5,7 @@ created: 2026-04-22
 updated: 2026-04-22
 sources:
   - "[[summaries/how-i-use-obsidian-claude-code]]"
+  - "[[summaries/obsidian-claude-codebook]]"
 tags: [people, pkm, ai-research]
 related:
   - "[[concepts/Obsidian]]"
@@ -17,7 +18,7 @@ Internet Vin（简称 Vin）是一位深度使用 [[concepts/Obsidian|Obsidian]]
 ## 核心贡献
 
 - **Obsidian + Claude Code 集成模式**：展示了如何通过 Obsidian CLI 让 Agent 读取 vault 中的文件及其链接关系
-- **自定义 Slash 命令体系**：构建了 /context、/trace、/connect、/ideas、/ghost、/challenge、/drift、/graduate 等思考工具
+- **自定义 Slash 命令体系**：构建了 12 个思考工具，涵盖会话规划（/context、/today、/closeday、/schedule）、洞察发现（/trace、/connect、/drift、/emerge）、压力测试与外化（/ghost、/challenge、/ideas、/graduate）
 - **「Markdown 是 LLM 的氧气」**：提出 markdown 互连文件是 LLM 时代个人知识管理的基础设施的论点
 
 ## 关键理念

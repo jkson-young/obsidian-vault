@@ -5,6 +5,7 @@ created: 2026-04-22
 updated: 2026-04-22
 sources:
   - "[[summaries/how-i-use-obsidian-claude-code]]"
+  - "[[summaries/obsidian-claude-codebook]]"
 tags: [ai-research, concepts, pkm]
 related:
   - "[[concepts/Claude Code]]"
@@ -24,14 +25,25 @@ related:
 
 ## 实践方式：自定义 Slash 命令
 
-[[entities/Vin]] 构建了一套将 Claude Code 转化为思考伙伴的自定义命令：
+[[entities/Vin]] 构建了一套将 Claude Code 转化为思考伙伴的自定义命令（完整 12 个）：
 
-- **/ghost**：以你的声音回答问题 → 检验自我认知
-- **/challenge**：用 vault 历史压力测试当前信念 → 发现偏见与盲点
-- **/emerge**：提炼 vault 中隐含但未明确表达的想法 → 命名未命名之物
-- **/drift**：对比 stated intentions vs 实际行为 → 发现逃避与偏差
-- **/trace**：追踪想法的演变历史 → 理解认知发展轨迹
-- **/connect**：桥接两个不同领域 → 激发跨界创新
+**会话与规划**
+- **/context**：加载完整生活与工作上下文 → 每次新会话的起点
+- **/today**：拉取日历、任务和笔记，生成当日优先计划 → 晨间 clarity
+- **/closeday**：捕获今日所做所学，提取未完成的延续项 → 日终清空
+- **/schedule**：基于优先事项和日历建议时间分配 → 周规划
+
+**洞察与发现**
+- **/trace**：追踪想法在 vault 中的演变历史 → 理解认知发展轨迹
+- **/connect**：桥接两个不同领域，发现意外关联 → 激发跨界创新
+- **/drift**：发现跨笔记反复出现但缺乏清晰线索的松散主题 → 捕捉潜意识盘旋
+- **/emerge**：识别开始凝聚成更大事物的模式集群 → 将零散想法变成项目/文章
+
+**压力测试与外化**
+- **/ghost**：以你的声音回答问题 → 外化自我认知、检验一致性
+- **/challenge**：用 vault 历史压力测试当前信念 → 发现矛盾与盲点
+- **/ideas**：扫描全库生成跨域想法报告 →  grounded in 真实兴趣的创新
+- **/graduate**：将日常笔记中的半成品想法提升为独立概念页 → 周回顾
 
 ## 为什么需要丰富的个人上下文
 
