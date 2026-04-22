@@ -51,13 +51,14 @@
             "id": "4b4a52de9f0cb72a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Calendar.base",
-                "viewName": "Calendar"
+                "file": "Calendar/Journal/Daily/2026-04-22.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "2026-04-22"
             }
           }
         ],
@@ -258,11 +259,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "1683c5f0e9b46a3e",
+  "active": "4b4a52de9f0cb72a",
   "lastOpenFiles": [
+    "Bases/Calendar.base",
     "Calendar/Journal/Daily/2026-04-13.md",
     "Calendar/Journal/Daily/2026-04-22.md",
-    "Bases/Calendar.base",
     "Habits Tracker.md",
     "Calendar/Journal/Daily/2026-04-15.md",
     "未命名 2.base",
@@ -290,7 +291,6 @@
     "wiki/index.md",
     "wiki/concepts/设备信息上报美团.md",
     "CLAUDE.md",
-    "Calendar/Journal/Daily/2026-04-20.md",
     "wiki/entities/project",
     "wiki/entities/product",
     "wiki/outputs",
