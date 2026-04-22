@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
+                "file": "llm-wiki/log/20260422.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian-claude-codebook"
+              "title": "20260422"
             }
           }
         ],
@@ -305,12 +305,15 @@
   },
   "active": "99b563cee5b08ec8",
   "lastOpenFiles": [
-    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc).md",
-    "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
-    "llm-wiki/wiki/concepts/Obsidian.md",
-    "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
-    "llm-wiki/CLAUDE.md",
     "llm-wiki/wiki/index.md",
+    "llm-wiki/log/20260422.md",
+    "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
+    "llm-wiki/log/20260422.md.tmp.19612.1776839284684",
+    "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
+    "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md.tmp.19612.1776839255220",
+    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc).md",
+    "llm-wiki/wiki/concepts/Obsidian.md",
+    "llm-wiki/CLAUDE.md",
     "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
     "llm-wiki/wiki/entities/Vin.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
@@ -318,7 +321,6 @@
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "llm-wiki/raw/articles/How I Use Obsidian + Claude Code to Run My Life.md",
-    "llm-wiki/log/20260422.md",
     "llm-wiki/log/20260422.md.tmp.19612.1776838557560",
     "llm-wiki/wiki/concepts/第二大脑.md.tmp.19612.1776838529919",
     "llm-wiki/wiki/concepts/Claude Code.md.tmp.19612.1776838527439",
@@ -327,9 +329,7 @@
     "llm-wiki/wiki/entities/Vin.md.tmp.19612.1776838516711",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.19612.1776838509947",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.19612.1776838497195",
-    "llm-wiki/wiki/summaries/obsidian-claude-codebook.md.tmp.19612.1776838471528",
     "llm-wiki/raw/articles/未命名.md",
-    "OpenClaw橙皮书_extracted.txt",
     "🏠 Home.md",
     "Untitled Kanban.md",
     "Calendar/Journal/Daily/2026-04-22.md",
