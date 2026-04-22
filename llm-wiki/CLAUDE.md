@@ -39,6 +39,7 @@
 - **分 folder 概念页** (`wiki/concepts/<topic>/`): 当主题超过 ~1200 词时使用。包含 `index.md` + 每个方面一个文件。
 - **实体页** (`wiki/entities/`): 专有名词（人名、工具名、组织名、论文名）。例如 `wiki/entities/Claude.md`, `wiki/entities/Transformer论文.md`
 - **摘要页** (`wiki/summaries/`): kebab-case 源文件 slug。例如 `wiki/summaries/attention-is-all-you-need.md`
+- **查询产出页** (`outputs/queries/`): `<YYYY-MM-DD>-<question-slug>.md`，日期前缀 + kebab-case 问题短名。例如 `outputs/queries/2026-04-22-rag-vs-fine-tuning.md`。若内容具有长期价值，可提升（promote）至 `wiki/concepts/`。
 
 ### 分类标签
 - `#ai-research` — AI/技术研究相关内容
