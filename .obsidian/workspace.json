@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/log/20260422.md",
+                "file": "llm-wiki/raw/articles/How I Use Obsidian + Claude Code to Run My Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260422"
+              "title": "How I Use Obsidian + Claude Code to Run My Life"
             }
           }
         ],
@@ -245,12 +245,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "210511afb96ebbe6",
+  "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
     "llm-wiki/CLAUDE.md",
+    "llm-wiki/raw/articles/How I Use Obsidian + Claude Code to Run My Life.md",
+    "llm-wiki/log/20260422.md",
+    "Clippings",
     "llm-wiki/CLAUDE.md.tmp.34036.1776829962601",
     "llm-wiki/CLAUDE.md.tmp.34036.1776829867391",
-    "llm-wiki/log/20260422.md",
     "llm-wiki/wiki/index.md",
     "llm-wiki/CLAUDE.md.tmp.34036.1776829497349",
     "CLAUDE.md",
@@ -260,7 +262,6 @@
     "llm-wiki/wiki/entities",
     "llm-wiki/wiki/concepts",
     "llm-wiki/wiki/summaries",
-    "llm-wiki/raw/papers",
     "karpathy wiki方法论.md",
     "wiki/index.md",
     "易乐途测试环境安装.md",
