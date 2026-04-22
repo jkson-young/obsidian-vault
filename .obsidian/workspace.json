@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/log/20260422.md",
+                "file": "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260422"
+              "title": "2026-04-22-how-to-design-custom-slash-commands"
             }
           }
         ],
@@ -303,11 +303,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1683c5f0e9b46a3e",
+  "active": "99b563cee5b08ec8",
   "lastOpenFiles": [
+    "llm-wiki/log/20260422.md",
     "llm-wiki/log/20260422.md.tmp.19612.1776839465337",
     "llm-wiki/wiki/index.md",
-    "llm-wiki/log/20260422.md",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
     "llm-wiki/log/20260422.md.tmp.19612.1776839284684",
     "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
@@ -329,7 +329,6 @@
     "llm-wiki/wiki/entities/Vin.md.tmp.19612.1776838520830",
     "llm-wiki/wiki/entities/Vin.md.tmp.19612.1776838516711",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.19612.1776838509947",
-    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.19612.1776838497195",
     "llm-wiki/raw/articles/未命名.md",
     "🏠 Home.md",
     "Untitled Kanban.md",
