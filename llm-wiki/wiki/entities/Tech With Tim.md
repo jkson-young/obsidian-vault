@@ -5,9 +5,12 @@ created: 2026-04-22
 updated: 2026-04-22
 sources:
   - "[[summaries/prompt-engineering-full-course]]"
-tags: [people, ai-research, education]
+tags:
+  - people
+  - ai-research
+  - education
 related:
-  - "[[concepts/提示工程]]"
+  - "[[prompt提示工程]]"
 ---
 
 Tech With Tim 是一位技术教育内容创作者，专注于编程教程、AI 工具使用和开发实践。他以系统化、结构化的教学方式闻名，内容覆盖 Python、AI/ML、Web 开发等领域。

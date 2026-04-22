@@ -6,11 +6,14 @@ updated: 2026-04-22
 sources:
   - "[[summaries/how-i-use-obsidian-claude-code]]"
   - "[[summaries/obsidian-claude-codebook]]"
-tags: [ai-research, concepts, pkm]
+tags:
+  - ai-research
+  - concepts
+  - pkm
 related:
   - "[[concepts/Claude Code]]"
   - "[[concepts/第二大脑]]"
-  - "[[concepts/提示工程]]"
+  - "[[prompt提示工程]]"
 ---
 
 将 LLM 用作「思考伙伴」（Thinking Partner）而非单纯的代码生成器或问答机器，是一种更深层的 AI 使用模式。它强调**协同思考**而非**委托执行**。

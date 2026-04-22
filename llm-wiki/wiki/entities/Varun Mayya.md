@@ -5,9 +5,12 @@ created: 2026-04-22
 updated: 2026-04-22
 sources:
   - "[[summaries/99-percent-prompt-ai-wrong]]"
-tags: [people, ai-research, startups]
+tags:
+  - people
+  - ai-research
+  - startups
 related:
-  - "[[concepts/提示工程]]"
+  - "[[prompt提示工程]]"
 ---
 
 Varun Mayya 是一位连续创业者和内容创作者，经营一家超过 500 人的公司。他以将复杂的 AI 概念拆解为可操作的实践技巧而闻名。
