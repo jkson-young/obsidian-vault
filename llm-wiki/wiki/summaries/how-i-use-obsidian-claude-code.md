@@ -1,11 +1,15 @@
 ---
-title: "How I Use Obsidian + Claude Code to Run My Life"
+title: How I Use Obsidian + Claude Code to Run My Life
 type: summary
 created: 2026-04-22
 updated: 2026-04-22
 sources:
   - "[[raw/articles/How I Use Obsidian + Claude Code to Run My Life]]"
-tags: [pkm, ai-research, obsidian, claude-code]
+tags:
+  - pkm
+  - ai-research
+  - obsidian
+  - claude-code
 ---
 
 ## 来源
