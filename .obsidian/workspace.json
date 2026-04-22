@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 593.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -233,18 +233,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0f373be69c6b1cae",
+  "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
+    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc).txt",
+    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc)",
     "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc).pdf",
+    "llm-wiki/raw/articles/未命名.md",
+    "Clippings/Obsidian + Claude Codebook (doc).txt",
+    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc) 3.txt",
+    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc) 2.txt",
+    "🏠 Home.md",
+    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc) 1.txt",
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "llm-wiki/log/20260422.md",
-    "llm-wiki/raw/articles/未命名.md",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
     "llm-wiki/wiki/index.md.tmp.34036.1776837228838",
     "llm-wiki/log/20260422.md.tmp.34036.1776837222941",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md.tmp.34036.1776837205028",
     "llm-wiki/wiki/entities/Vin.md",
-    "🏠 Home.md",
     "Untitled Kanban.md",
     "Calendar/Journal/Daily/2026-04-22.md",
     "Calendar/Journal/Daily/2026-04-23.md",
@@ -259,11 +265,6 @@
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
     "llm-wiki/wiki/concepts/Claude Code.md",
     "llm-wiki/log/20260422.md.tmp.34036.1776830554680",
-    "llm-wiki/wiki/index.md.tmp.34036.1776830543038",
-    "llm-wiki/wiki/entities/Obsidian.md.tmp.34036.1776830521647",
-    "llm-wiki/wiki/entities/Greg Isenberg.md.tmp.34036.1776830514838",
-    "llm-wiki/wiki/entities/Vin.md.tmp.34036.1776830507822",
-    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.34036.1776830498183",
     "llm-wiki/CLAUDE.md",
     "CLAUDE.md",
     "wiki/index.md",
