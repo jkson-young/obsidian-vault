@@ -19,6 +19,9 @@
 - [[concepts/Obsidian]] — 基于本地 markdown 和双向链接的笔记工具
 - [[concepts/第二大脑]] — 外部化知识管理系统（Personal OS），markdown 为核心
 
+### 查询产出
+- [[outputs/queries/2026-04-22-how-to-design-custom-slash-commands|如何设计自定义 slash 命令？]] — 基于 Vin 实践提炼的设计原则与元认知模型
+
 ## 工作项目
 
 *(none yet)*

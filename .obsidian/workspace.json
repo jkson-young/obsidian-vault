@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/wiki/entities/Vin.md",
+                "file": "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vin"
+              "title": "2026-04-22-how-to-design-custom-slash-commands"
             }
           }
         ],
@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -239,6 +239,12 @@
   },
   "active": "0f373be69c6b1cae",
   "lastOpenFiles": [
+    "llm-wiki/raw/articles/karpathy wiki方法论.md",
+    "llm-wiki/wiki/index.md.tmp.34036.1776837228838",
+    "llm-wiki/log/20260422.md.tmp.34036.1776837222941",
+    "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
+    "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md.tmp.34036.1776837205028",
+    "llm-wiki/wiki/entities/Vin.md",
     "🏠 Home.md",
     "Untitled Kanban.md",
     "Calendar/Journal/Daily/2026-04-22.md",
@@ -249,7 +255,6 @@
     "llm-wiki/log/20260422.md",
     "llm-wiki/wiki/index.md",
     "llm-wiki/wiki/entities/Greg Isenberg.md",
-    "llm-wiki/wiki/entities/Vin.md",
     "llm-wiki/wiki/entities/Obsidian.md",
     "markdown.md",
     "llm-wiki/wiki/concepts/Obsidian.md",
@@ -262,19 +267,13 @@
     "llm-wiki/wiki/entities/Vin.md.tmp.34036.1776830507822",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.34036.1776830498183",
     "llm-wiki/wiki/concepts/第二大脑.md.tmp.34036.1776830487404",
-    "llm-wiki/wiki/concepts/Claude Code.md.tmp.34036.1776830478533",
-    "llm-wiki/wiki/concepts/Obsidian.md.tmp.34036.1776830470883",
-    "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md.tmp.34036.1776830462405",
     "llm-wiki/CLAUDE.md",
     "CLAUDE.md",
-    "karpathy wiki方法论.md",
     "wiki/index.md",
     "易乐途测试环境安装.md",
     "途邦SCRM-易乐途门店设备信息上报美团测试.md",
     "活动助手游戏对局数据查询.md",
     "活动助手切换线上环境.md",
-    "活动助手切换登录门店.md",
-    "活动助手测试环境安装.md",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
