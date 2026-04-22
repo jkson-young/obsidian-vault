@@ -93,3 +93,17 @@
 - **Depth**: 概念页深入浅出（定义 + 原理 + 应用），实体页聚焦事实与关联
 - **Handling contradictions**: 陈述双方观点，分别引用来源，加入 Open Research Questions
 - **Cross-linking**: 积极使用 `[[...]]` 建立页面间关联，尤其要打通 AI 研究 ↔ 个人知识管理 ↔ 工作项目 三大领域的连接
+
+---
+
+## 工具选择
+
+当需要查找笔记间的关系时，**优先使用 obsidian-cli skill**：
+
+- Wiki links（双向链接）查询
+- Tags 或带特定 tags 的笔记搜索
+- Frontmatter 信息提取
+- 笔记之间的相互关系梳理与分析
+
+> [!note] 为什么用 obsidian-cli
+> obsidian-cli 专门针对 Obsidian 的元数据和链接结构优化，比通用的文本搜索更精确高效
