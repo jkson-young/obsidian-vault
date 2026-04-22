@@ -217,11 +217,15 @@
       "templater-obsidian:Templater": false,
       "zk-prefixer:创建时间戳笔记": false,
       "claudian:Open Claudian": false,
-      "daily-notes:打开/创建今天的日记": false
+      "daily-notes:打开/创建今天的日记": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3ea4459616f7ae8",
+  "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
+    "🏠 Home.md",
+    "Untitled Kanban.md",
     "Calendar/Journal/Daily/2026-04-22.md",
     "Calendar/Journal/Daily/2026-04-23.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
@@ -256,8 +260,6 @@
     "活动助手切换线上环境.md",
     "活动助手切换登录门店.md",
     "活动助手测试环境安装.md",
-    "Calendar/Journal/Daily/2026-04-21.md",
-    "wiki/log.md",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
