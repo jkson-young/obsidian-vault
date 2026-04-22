@@ -68,7 +68,7 @@
   "locale": "zh-CN",
   "claudeCliPath": "",
   "claudeCliPathsByHost": {
-    "DESKTOP-2DDREN7": "D:\\software\\Node.js\\node_global\\node_modules\\@anthropic-ai\\claude-code\\cli.js"
+    "DESKTOP-2DDREN7": ""
   },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
