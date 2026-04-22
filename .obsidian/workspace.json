@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-04-21.md",
+                "file": "karpathy wiki方法论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-21"
+              "title": "karpathy wiki方法论"
             }
           }
         ],
@@ -223,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -245,10 +245,18 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "1683c5f0e9b46a3e",
+  "active": "3120bbeb2d0a8503",
   "lastOpenFiles": [
-    "Calendar/Journal/Daily/2026-04-22.md",
+    "wiki/index.md",
+    "karpathy wiki方法论.md",
+    "易乐途测试环境安装.md",
+    "途邦SCRM-易乐途门店设备信息上报美团测试.md",
+    "活动助手游戏对局数据查询.md",
+    "活动助手切换线上环境.md",
+    "活动助手切换登录门店.md",
+    "活动助手测试环境安装.md",
     "Calendar/Journal/Daily/2026-04-21.md",
+    "Calendar/Journal/Daily/2026-04-22.md",
     "wiki/log.md",
     "Bases/Calendar.base",
     "Calendar/Journal/Daily/2026-04-13.md",
@@ -269,14 +277,7 @@
     "Calendar/Journal/Daily/2026-04-07.md",
     "Calendar/Journal/Daily/2026-04-04.md",
     "Calendar/Journal/Daily/2026-04-16.md",
-    "Calendar/Journal/Daily/2026-03-26.md",
-    "2026-04-21.md",
-    "2026-04-22.md",
-    "Calendar/Journal/Daily/2026-04-17.md",
     "Bases/On This Day.base",
-    "wiki/index.md",
-    "wiki/concepts/设备信息上报美团.md",
-    "CLAUDE.md",
     "wiki/entities/project",
     "wiki/entities/product",
     "wiki/outputs",
