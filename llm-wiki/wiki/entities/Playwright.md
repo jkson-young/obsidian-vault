@@ -42,6 +42,54 @@ flowchart TD
 - **Context**：相互隔离的浏览上下文，类似无痕窗口，Cookie、缓存、LocalStorage 彼此独立；
 - **Page**：单个标签页，承载具体导航与交互操作。
 
+## 进阶能力
+
+### API 测试
+
+Playwright 不仅限于 UI 测试，还提供 `request` 对象直接测试后端 API：
+
+```javascript
+const response = await request.get('/api/products');
+expect(response.ok()).toBeTruthy();
+expect((await response.json()).length).toBe(6);
+```
+
+### 网络请求拦截（Mocking）
+
+通过 `page.route` 拦截并修改网络请求，用于测试错误状态、慢网络、特定数据场景：
+
+- 模拟 API 返回 500 错误
+- 添加延迟测试加载状态
+- 修改响应数据（如将商品库存设为 0 测试缺货场景）
+- 选择性拦截（仅拦截 POST 而放行 GET）
+
+### 可访问性测试支持
+
+Playwright 可与 Axe Core 等工具结合，自动化扫描 WCAG 违规：
+
+```javascript
+const accessibilityScanResults = await new AxeBuilder({ page }).analyze();
+expect(accessibilityScanResults.violations).toEqual([]);
+```
+
+同时支持原生测试 alt text、form labels、heading 层级、键盘导航可达性。
+
+### 调试与报告
+
+- ** headed / UI interactive 模式**：`npx playwright test --ui` 打开交互式调试界面，可逐条运行、查看时序
+- **Trace Viewer**：录制完整操作、网络请求、控制台日志，失败时可逐帧回放
+- **自动产物**：配置 `screenshot: 'on-failure'` 和 `video: 'on-failure'` 自动捕获失败现场
+
+## 配置与运行模式
+
+Playwright 通过 `playwright.config.js` 统一管理：
+
+- 测试文件路径
+- 目标浏览器（Chromium、Firefox、WebKit、Mobile Chrome、Mobile Safari）
+- 本地开发服务器自动启动
+- 失败截图与录屏策略
+- 并行 workers 数量
+
 ## 与 Puppeteer 的关系
 
 Playwright 核心团队成员曾参与 Google [[entities/Puppeteer|Puppeteer]] 的开发，后转投 Microsoft 并基于跨浏览器支持的目标重新设计了 Playwright。两者 API 风格相似，但 Playwright 在跨浏览器能力、自动等待、调试工具链上更为完善。
