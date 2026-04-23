@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/wiki/concepts/端到端测试.md",
+                "file": "llm-wiki/wiki/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "端到端测试"
+              "title": "index"
             }
           }
         ],
@@ -240,27 +240,29 @@
   },
   "active": "541dd340408ce7fd",
   "lastOpenFiles": [
-    "llm-wiki/wiki/concepts/Claude Code.md",
+    "llm-wiki/wiki/summaries/what-is-playwright.md",
+    "llm-wiki/log/20260422.md",
+    "llm-wiki/log/20260423.md",
+    "llm-wiki/raw/articles/Software Testing Course – Playwright, E2E, and AI Agents.md",
+    "llm-wiki/raw/articles/What is Playwright (🎭 Playwright introduction tutorial, features & demo).md",
     "llm-wiki/wiki/concepts/浏览器自动化.md",
     "llm-wiki/wiki/concepts/端到端测试.md",
+    "llm-wiki/wiki/concepts/Claude Code.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
     "llm-wiki/wiki/entities/Testopic.md",
     "llm-wiki/wiki/entities/Puppeteer.md",
     "llm-wiki/wiki/entities/Playwright.md",
     "llm-wiki/CLAUDE.md.tmp.90092.1776941941427",
-    "llm-wiki/log/20260423.md",
     "llm-wiki/log/20260423.md.tmp.90092.1776941925657",
     "llm-wiki/wiki/index.md.tmp.90092.1776941914773",
     "llm-wiki/wiki/index.md.tmp.90092.1776941901757",
     "llm-wiki/wiki/index.md.tmp.90092.1776941896220",
-    "llm-wiki/raw/articles/What is Playwright (🎭 Playwright introduction tutorial, features & demo).md",
     "llm-wiki/wiki/concepts/端到端测试.md.tmp.90092.1776941881757",
     "llm-wiki/wiki/concepts/浏览器自动化.md.tmp.90092.1776941860412",
     "llm-wiki/wiki/entities/Testopic.md.tmp.90092.1776941827964",
     "llm-wiki/wiki/entities/Microsoft.md",
     "llm-wiki/wiki/entities/Microsoft.md.tmp.90092.1776941822522",
     "llm-wiki/wiki/entities/Puppeteer.md.tmp.90092.1776941814461",
-    "llm-wiki/wiki/summaries/what-is-playwright.md",
     "Clippings/Prompt Engineering Full Course.md",
     "Calendar/Journal/Daily/2026-04-23.md",
     "Calendar/Journal/Daily/2026-04-22.md",
@@ -274,8 +276,6 @@
     "Calendar/Journal/Daily/2026-04-13.md",
     "Calendar/Journal/Daily/2026-04-14.md",
     "Calendar/Journal/Daily/2026-04-15.md",
-    "Calendar/Journal/Daily/2026-04-16.md",
-    "Calendar/Journal/Daily/2026-04-17.md",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
