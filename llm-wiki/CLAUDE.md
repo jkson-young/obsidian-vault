@@ -63,13 +63,31 @@
 ## Current articles
 
 ### Concepts
-*(none yet — update after first ingest)*
+- [[concepts/浏览器自动化]] — 浏览器自动化技术体系
+- [[concepts/端到端测试]] — 端到端测试方法与工具趋势
+- [[concepts/Claude Code]] — Anthropic 的命令行 Agent
+- [[concepts/LLM作为思考伙伴]] — 将 LLM 用作协同思考者
+- [[concepts/Obsidian]] — 基于本地 markdown 和双向链接的笔记工具
+- [[concepts/第二大脑]] — 外部化知识管理系统
+- [[concepts/prompt提示工程]] — 提示工程方法论
 
 ### Entities
-*(none yet)*
+- [[entities/Playwright]] — Microsoft 开源的多浏览器自动化框架
+- [[entities/Puppeteer]] — Google 推出的 Chromium 自动化库
+- [[entities/Microsoft]] — 全球最大的软件公司之一
+- [[entities/Testopic]] — 测试技术教育频道
+- [[entities/Vin]] — Obsidian + Claude Code 深度实践者
+- [[entities/Varun Mayya]] — 提示工程世界构建理论提出者
+- [[entities/Tech With Tim]] — 提示工程系统化教学创作者
+- [[entities/Greg Isenberg]] — Startup Ideas 播客主持人
+- [[entities/Obsidian]] — 笔记工具公司/产品
 
 ### Summaries
-*(none yet)*
+- [[summaries/what-is-playwright]] — Testopic Playwright 入门教程
+- [[summaries/how-i-use-obsidian-claude-code]] — Vin 的 Obsidian + Claude Code 实践
+- [[summaries/obsidian-claude-codebook]] — 12 个自定义 slash 命令手册
+- [[summaries/99-percent-prompt-ai-wrong]] — Varun Mayya 的提示工程技巧
+- [[summaries/prompt-engineering-full-course]] — Tech With Tim 的提示工程系统教学
 
 ## Open research questions
 

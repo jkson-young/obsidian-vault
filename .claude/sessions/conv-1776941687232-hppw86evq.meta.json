@@ -3,6 +3,18 @@
   "title": "Ingest Playwright tutorial article",
   "titleGenerationStatus": "success",
   "createdAt": 1776941687232,
-  "updatedAt": 1776941708396,
-  "sessionId": null
+  "updatedAt": 1776941958544,
+  "lastResponseAt": 1776941958544,
+  "sessionId": "98e58a12-9da0-4e37-b3c5-cf56fe544287",
+  "sdkSessionId": "98e58a12-9da0-4e37-b3c5-cf56fe544287",
+  "currentNote": "llm-wiki/raw/articles/What is Playwright (🎭 Playwright introduction tutorial, features & demo).md",
+  "usage": {
+    "model": "kimi-k2.6",
+    "inputTokens": 40461,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 40461,
+    "percentage": 20
+  }
 }
