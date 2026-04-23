@@ -64,7 +64,11 @@
 
 ### Concepts
 - [[concepts/浏览器自动化]] — 浏览器自动化技术体系
-- [[concepts/端到端测试]] — 端到端测试方法与工具趋势
+- [[concepts/端到端测试]] — 端到端测试方法与最佳实践
+- [[concepts/测试金字塔]] — Mike Cohn 推广的测试策略分层模型
+- [[concepts/测试驱动开发]] — 先写测试再写实现的红绿重构循环
+- [[concepts/可访问性测试]] — 验证应用对辅助技术用户的可用性
+- [[concepts/AI辅助测试]] — 利用 AI 生成、执行和维护自动化测试
 - [[concepts/Claude Code]] — Anthropic 的命令行 Agent
 - [[concepts/LLM作为思考伙伴]] — 将 LLM 用作协同思考者
 - [[concepts/Obsidian]] — 基于本地 markdown 和双向链接的笔记工具
@@ -76,6 +80,9 @@
 - [[entities/Puppeteer]] — Google 推出的 Chromium 自动化库
 - [[entities/Microsoft]] — 全球最大的软件公司之一
 - [[entities/Testopic]] — 测试技术教育频道
+- [[entities/freeCodeCamp]] — 全球最大的免费编程教育平台
+- [[entities/TestMu]] — 软件测试领域公司，KaneAI 的开发者
+- [[entities/KaneAI]] — AI 原生测试 Agent，支持自然语言生成测试
 - [[entities/Vin]] — Obsidian + Claude Code 深度实践者
 - [[entities/Varun Mayya]] — 提示工程世界构建理论提出者
 - [[entities/Tech With Tim]] — 提示工程系统化教学创作者
@@ -83,6 +90,7 @@
 - [[entities/Obsidian]] — 笔记工具公司/产品
 
 ### Summaries
+- [[summaries/software-testing-course-playwright-e2e-ai]] — freeCodeCamp 软件测试系统课程
 - [[summaries/what-is-playwright]] — Testopic Playwright 入门教程
 - [[summaries/how-i-use-obsidian-claude-code]] — Vin 的 Obsidian + Claude Code 实践
 - [[summaries/obsidian-claude-codebook]] — 12 个自定义 slash 命令手册
