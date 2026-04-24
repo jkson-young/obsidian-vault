@@ -27,13 +27,14 @@
             "id": "541dd340408ce7fd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/On This Day.base",
-                "viewName": "On This Day"
+                "file": "Calendar/Journal/Daily/2026-04-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "On This Day"
+              "icon": "lucide-file",
+              "title": "2026-04-20"
             }
           }
         ],
@@ -237,9 +238,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5695461a7d38ce2",
+  "active": "541dd340408ce7fd",
   "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-04-21.md",
+    "Calendar/Journal/Daily/2026-04-22.md",
     "Calendar/Journal/Daily/2026-04-23.md",
+    "Bases/On This Day.base",
     "llm-wiki/log/20260423.md",
     "llm-wiki/log/20260422.md",
     "llm-wiki/wiki/index.md",
@@ -264,7 +268,6 @@
     "llm-wiki/wiki/concepts/浏览器自动化.md.tmp.90092.1776942726809",
     "llm-wiki/wiki/concepts/端到端测试.md.tmp.90092.1776942712175",
     "llm-wiki/wiki/concepts/端到端测试.md.tmp.90092.1776942693652",
-    "llm-wiki/wiki/concepts/端到端测试.md.tmp.90092.1776942682634",
     "llm-wiki/raw/articles/Software Testing Course – Playwright, E2E, and AI Agents.md",
     "llm-wiki/raw/articles/What is Playwright (🎭 Playwright introduction tutorial, features & demo).md",
     "llm-wiki/wiki/concepts/Claude Code.md",
@@ -273,7 +276,6 @@
     "llm-wiki/wiki/entities/Playwright.md",
     "llm-wiki/wiki/entities/Microsoft.md",
     "Clippings/Prompt Engineering Full Course.md",
-    "Calendar/Journal/Daily/2026-04-22.md",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
