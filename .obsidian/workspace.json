@@ -27,14 +27,13 @@
             "id": "829631b3c35a70ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-04-24.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Calendar.base",
+                "viewName": "Calendar"
               },
-              "icon": "lucide-file",
-              "title": "2026-04-24"
+              "icon": "lucide-table",
+              "title": "Calendar"
             }
           }
         ],
@@ -240,6 +239,7 @@
   },
   "active": "829631b3c35a70ec",
   "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-04-24.md",
     "Calendar/Journal/Daily/2026-04-23.md",
     "Calendar/Journal/Daily/2026-04-20.md",
     "Calendar/Journal/Daily/2026-04-13.md",
@@ -248,7 +248,6 @@
     "llm-wiki/log/20260422.md",
     "llm-wiki/CLAUDE.md",
     "🏠 Home.md",
-    "Calendar/Journal/Daily/2026-04-24.md",
     "Note-Taking.md",
     "Calendar/Journal/Daily/2026-04-21.md",
     "Calendar/Journal/Daily/2026-04-22.md",
