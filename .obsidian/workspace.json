@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/CLAUDE.md",
+                "file": "llm-wiki/raw/articles/How I Use Obsidian + Claude Code to Run My Life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "How I Use Obsidian + Claude Code to Run My Life"
             }
           }
         ],
@@ -240,9 +240,10 @@
   },
   "active": "c531264f94dcf911",
   "lastOpenFiles": [
-    "Calendar/Journal/Daily/2026-04-24.md",
-    "llm-wiki/CLAUDE.md",
+    "llm-wiki/raw/articles/99% of You Prompt AI Wrong.md",
     "llm-wiki/wiki/index.md",
+    "llm-wiki/CLAUDE.md",
+    "Calendar/Journal/Daily/2026-04-24.md",
     "llm-wiki/wiki/summaries/99-percent-prompt-ai-wrong.md",
     "llm-wiki/log/20260427.md",
     "llm-wiki/log/20260422.md",
@@ -275,7 +276,6 @@
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.90092.1777256650570",
     "llm-wiki/wiki/concepts/第二大脑.md.tmp.90092.1777256639528",
     "llm-wiki/wiki/concepts/RAG.md",
-    "🏠 Home.md",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
