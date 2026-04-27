@@ -12,6 +12,7 @@
 ### 工具与 Agent
 - [[concepts/Claude Code]] — Anthropic 的命令行 Agent，可读写文件、执行命令
 - [[concepts/LLM作为思考伙伴]] — 将 LLM 用作协同思考者而非单纯执行者
+- [[concepts/RAG]] — 检索增强生成：将外部知识检索与 LLM 生成结合的架构
 
 ### Prompt Engineering
 - [[prompt提示工程]] — 通过世界构建和上下文碎片引导 LLM 输出高质量结果
@@ -19,6 +20,7 @@
 ## 个人知识管理
 
 ### 笔记与知识系统
+- [[concepts/LLM Wiki]] — 利用 LLM 增量构建和维护持久化 wiki 的知识管理模式
 - [[concepts/Obsidian]] — 基于本地 markdown 和双向链接的笔记工具
 - [[concepts/第二大脑]] — 外部化知识管理系统（Personal OS），markdown 为核心
 
@@ -44,6 +46,8 @@
 ## Entities
 
 ### 人物
+- [[entities/Andrej Karpathy]] — 深度学习研究者、AI 教育者，LLM Wiki 模式的提出者
+- [[entities/Vannevar Bush]] — 工程师与科学管理者，Memex 概念的提出者（1945）
 - [[entities/Vin]] — Internet Vin，Obsidian + Claude Code 深度实践者
 - [[entities/Varun Mayya]] — 创业者、内容创作者，提示工程世界构建理论的提出者
 - [[entities/Tech With Tim]] — 技术教育内容创作者，提示工程系统化教学的提出者

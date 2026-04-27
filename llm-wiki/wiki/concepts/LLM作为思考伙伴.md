@@ -6,6 +6,7 @@ updated: 2026-04-22
 sources:
   - "[[summaries/how-i-use-obsidian-claude-code]]"
   - "[[summaries/obsidian-claude-codebook]]"
+  - "[[summaries/karpathy-wiki-methodology]]"
 tags:
   - ai-research
   - concepts
@@ -13,6 +14,7 @@ tags:
 related:
   - "[[concepts/Claude Code]]"
   - "[[concepts/第二大脑]]"
+  - "[[concepts/LLM Wiki]]"
   - "[[prompt提示工程]]"
 ---
 
@@ -48,6 +50,16 @@ related:
 - **/challenge**：用 vault 历史压力测试当前信念 → 发现矛盾与盲点
 - **/ideas**：扫描全库生成跨域想法报告 →  grounded in 真实兴趣的创新
 - **/graduate**：将日常笔记中的半成品想法提升为独立概念页 → 周回顾
+
+## 从对话到结构：LLM Wiki 作为思考伙伴的结晶
+
+思考伙伴的价值不仅体现在单次对话的洞察，更在于**将思考过程结构化并持久化**。[[concepts/LLM Wiki|LLM Wiki 模式]] 正是这种理念的工程化实现：
+
+- **Ingest** 阶段，LLM 作为思考伙伴与你讨论源材料的关键 takeaways
+- **Query** 阶段，LLM 基于已编译的知识网络进行综合推理，而非每次都从零检索
+- **Lint** 阶段，LLM 主动发现知识库中的矛盾和缺口，提出新的探索方向
+
+在这种模式下，wiki 本身就是思考伙伴与你长期协作的产物——每一次对话都沉淀为互连的页面，知识随着时间复利增长。
 
 ## 为什么需要丰富的个人上下文
 
