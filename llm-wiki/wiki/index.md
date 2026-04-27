@@ -63,6 +63,7 @@
 
 ## Summaries (chronological)
 
+- 2026-04-27 — [[summaries/karpathy-wiki-methodology]] — Karpathy 的 LLM Wiki 模式：编译优于检索、三层架构、Ingest/Query/Lint 操作
 - 2026-04-23 — [[summaries/software-testing-course-playwright-e2e-ai]] — freeCodeCamp 软件测试系统课程：金字塔、Playwright 实战、AI 测试
 - 2026-04-23 — [[summaries/what-is-playwright]] — Testopic 的 Playwright 入门教程：安装、Codegen、截图与录屏
 - 2026-04-22 — [[summaries/how-i-use-obsidian-claude-code]] — Vin 展示如何用 Obsidian + Claude Code 构建个人操作系统

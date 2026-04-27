@@ -63,6 +63,8 @@
 ## Current articles
 
 ### Concepts
+- [[concepts/LLM Wiki]] — 利用 LLM 增量构建和维护持久化 wiki 的知识管理模式
+- [[concepts/RAG]] — 检索增强生成：外部知识检索与 LLM 生成结合的架构
 - [[concepts/浏览器自动化]] — 浏览器自动化技术体系
 - [[concepts/端到端测试]] — 端到端测试方法与最佳实践
 - [[concepts/测试金字塔]] — Mike Cohn 推广的测试策略分层模型
@@ -76,6 +78,8 @@
 - [[concepts/prompt提示工程]] — 提示工程方法论
 
 ### Entities
+- [[entities/Andrej Karpathy]] — 深度学习研究者、AI 教育者，LLM Wiki 模式的提出者
+- [[entities/Vannevar Bush]] — 工程师与科学管理者，Memex 概念的提出者（1945）
 - [[entities/Playwright]] — Microsoft 开源的多浏览器自动化框架
 - [[entities/Puppeteer]] — Google 推出的 Chromium 自动化库
 - [[entities/Microsoft]] — 全球最大的软件公司之一
@@ -90,6 +94,7 @@
 - [[entities/Obsidian]] — 笔记工具公司/产品
 
 ### Summaries
+- [[summaries/karpathy-wiki-methodology]] — Karpathy 的 LLM Wiki 模式：编译优于检索、三层架构、Ingest/Query/Lint 操作
 - [[summaries/software-testing-course-playwright-e2e-ai]] — freeCodeCamp 软件测试系统课程
 - [[summaries/what-is-playwright]] — Testopic Playwright 入门教程
 - [[summaries/how-i-use-obsidian-claude-code]] — Vin 的 Obsidian + Claude Code 实践
