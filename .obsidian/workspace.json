@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/CLAUDE.md",
+                "file": "llm-wiki/log/20260423.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "20260423"
             }
           }
         ],
@@ -240,11 +240,11 @@
   },
   "active": "c531264f94dcf911",
   "lastOpenFiles": [
-    "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
-    "llm-wiki/log/20260422.md",
-    "llm-wiki/log/20260423.md",
     "llm-wiki/log/20260427.md",
+    "llm-wiki/log/20260422.md",
     "llm-wiki/CLAUDE.md",
+    "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
+    "llm-wiki/log/20260423.md",
     "llm-wiki/wiki/index.md",
     "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
