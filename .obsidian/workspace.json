@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
+                "file": "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "karpathy-wiki-methodology"
+              "title": "how-i-use-obsidian-claude-code"
             }
           }
         ],
@@ -240,6 +240,13 @@
   },
   "active": "c531264f94dcf911",
   "lastOpenFiles": [
+    "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
+    "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc).md",
+    "llm-wiki/wiki/entities/Vin.md",
+    "llm-wiki/wiki/entities/Vannevar Bush.md",
+    "llm-wiki/wiki/entities/Testopic.md",
+    "llm-wiki/wiki/entities/Tech With Tim.md",
+    "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "llm-wiki/wiki/index.md",
     "llm-wiki/log/20260427.md",
     "llm-wiki/log/20260427.md.tmp.90092.1777256774760",
@@ -262,8 +269,6 @@
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.90092.1777256650570",
     "llm-wiki/wiki/concepts/第二大脑.md.tmp.90092.1777256639528",
     "llm-wiki/wiki/concepts/RAG.md",
-    "llm-wiki/wiki/entities/Vannevar Bush.md",
-    "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "🏠 Home.md",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
     "Calendar/Journal/Daily/2026-04-24.md",
@@ -271,11 +276,6 @@
     "Calendar/Journal/Daily/2026-04-20.md",
     "Calendar/Journal/Daily/2026-04-13.md",
     "Calendar/Journal/Daily/2026-03-26.md",
-    "llm-wiki/log/20260422.md",
-    "llm-wiki/CLAUDE.md",
-    "Note-Taking.md",
-    "Calendar/Journal/Daily/2026-04-21.md",
-    "Calendar/Journal/Daily/2026-04-22.md",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
