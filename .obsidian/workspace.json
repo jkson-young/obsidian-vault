@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/CLAUDE.md",
+                "file": "llm-wiki/log/20260422.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "20260422"
             }
           }
         ],
@@ -240,6 +240,10 @@
   },
   "active": "c531264f94dcf911",
   "lastOpenFiles": [
+    "llm-wiki/log/20260423.md",
+    "llm-wiki/log/20260427.md",
+    "llm-wiki/log/20260422.md",
+    "llm-wiki/CLAUDE.md",
     "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
     "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
     "llm-wiki/raw/articles/Obsidian + Claude Codebook (doc).md",
@@ -249,7 +253,6 @@
     "llm-wiki/wiki/entities/Tech With Tim.md",
     "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "llm-wiki/wiki/index.md",
-    "llm-wiki/log/20260427.md",
     "llm-wiki/log/20260427.md.tmp.90092.1777256774760",
     "llm-wiki/CLAUDE.md.tmp.90092.1777256759280",
     "llm-wiki/CLAUDE.md.tmp.90092.1777256737634",
@@ -273,9 +276,6 @@
     "🏠 Home.md",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
     "Calendar/Journal/Daily/2026-04-24.md",
-    "Calendar/Journal/Daily/2026-04-23.md",
-    "Calendar/Journal/Daily/2026-04-20.md",
-    "Calendar/Journal/Daily/2026-04-13.md",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
