@@ -66,5 +66,6 @@
   "obsidian-velocity@@color-highlight-rgb": "var(--highlight-yellow-rgb)",
   "obsidian-velocity@@enable-special-text": false,
   "obsidian-velocity@@enable-special-code": false,
-  "obsidian-velocity@@line-height-normal": "1.5"
+  "obsidian-velocity@@line-height-normal": "1.5",
+  "obsidian-velocity@@theme-paint-light": "velocity"
 }
