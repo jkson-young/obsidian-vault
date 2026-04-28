@@ -24,17 +24,16 @@
             }
           },
           {
-            "id": "c531264f94dcf911",
+            "id": "08ee11bb43079714",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "llm-wiki/wiki/concepts/测试金字塔.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Calendar.base",
+                "viewName": "Calendar"
               },
-              "icon": "lucide-file",
-              "title": "测试金字塔"
+              "icon": "lucide-table",
+              "title": "Calendar"
             }
           }
         ],
@@ -95,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 378.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -238,17 +237,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5695461a7d38ce2",
+  "active": "08ee11bb43079714",
   "lastOpenFiles": [
+    "Study/Obsidian/Obsidian Callout.md",
+    "Study/Obsidian",
+    "Study",
+    "金字塔原理.md",
+    "工具清单：按层拆解.md",
+    "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+    "Work/活动助手测试环境安装.md",
+    "🏠 Home.md",
+    "Work",
+    "llm-wiki/log/20260422.md",
+    "llm-wiki/wiki/concepts/测试金字塔.md",
     "llm-wiki/raw/articles/99% of You Prompt AI Wrong.md",
     "llm-wiki/wiki/summaries/99-percent-prompt-ai-wrong.md",
-    "活动助手游戏对局数据查询.md",
-    "金字塔原理.md",
-    "途邦SCRM-易乐途门店设备信息上报美团测试.md",
+    "Work/活动助手游戏对局数据查询.md",
     "都2026了，你还不会用Obsidian？.md",
-    "活动助手测试环境安装.md",
     "llm-wiki/log/20260427.md",
-    "llm-wiki/log/20260422.md",
     "llm-wiki/log/20260423.md",
     "llm-wiki/CLAUDE.md",
     "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
@@ -262,10 +268,6 @@
     "Calendar/Journal/Daily/2026-03-30.md",
     "Calendar/Journal/Daily/2026-03-29.md",
     "Calendar/Journal/Daily/2026-03-28.md",
-    "Calendar/Journal/Daily/2026-03-27.md",
-    "Calendar/Journal/Daily/2026-03-26.md",
-    "llm-wiki/raw/articles/How I Use Obsidian + Claude Code to Run My Life.md",
-    "Calendar/Journal/Daily/2026-04-24.md",
     "llm-wiki/log/20260427.md.tmp.90092.1777256774760",
     "llm-wiki/CLAUDE.md.tmp.90092.1777256759280",
     "llm-wiki/CLAUDE.md.tmp.90092.1777256737634",
@@ -273,9 +275,6 @@
     "llm-wiki/wiki/index.md.tmp.90092.1777256706744",
     "llm-wiki/wiki/index.md.tmp.90092.1777256698052",
     "llm-wiki/wiki/index.md.tmp.90092.1777256691034",
-    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.90092.1777256661618",
-    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.90092.1777256650570",
-    "llm-wiki/wiki/concepts/第二大脑.md.tmp.90092.1777256639528",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",
