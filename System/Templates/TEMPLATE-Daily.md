@@ -21,7 +21,9 @@ cssclasses:
 >- [ ] 
 
 
->[!quote] Free Write
+>[!tip] Free Write
+
+
 
 
 <%*

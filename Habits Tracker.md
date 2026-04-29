@@ -10,7 +10,7 @@ const trackerData = {
     }
 }
 
-for(let page of dv.pages('"Daily"').where(p => p.meditation)) {
+for(let page of dv.pages('"Daily"').where(p => p.10分钟冥想)) {
     trackerData.entries.push({
         date: page.file.name,
         intensity: 1
@@ -60,4 +60,13 @@ for(let page of dv.pages('"Daily"').where(p => p.reading)) {
 }
 
 renderHeatmapTracker(this.container, trackerData)
+```
+
+```
+searchType: task.done
+searchTarget: fitness
+datasetName: "健身"
+folder: diary
+endDate: 2025-07-31
+month:
 ```
