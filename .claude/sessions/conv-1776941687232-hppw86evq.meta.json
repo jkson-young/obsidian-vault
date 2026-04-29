@@ -3,8 +3,8 @@
   "title": "Ingest Playwright tutorial article",
   "titleGenerationStatus": "success",
   "createdAt": 1776941687232,
-  "updatedAt": 1777448451368,
-  "lastResponseAt": 1777448451368,
+  "updatedAt": 1777448994924,
+  "lastResponseAt": 1777448994924,
   "sessionId": "c176ce41-92a0-4189-b7dd-3243831586ba",
   "sdkSessionId": "c176ce41-92a0-4189-b7dd-3243831586ba",
   "previousSdkSessionIds": [
@@ -12,11 +12,11 @@
   ],
   "usage": {
     "model": "opus",
-    "inputTokens": 31303,
+    "inputTokens": 348,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 81,
+    "cacheReadInputTokens": 36703,
     "contextWindow": 200000,
-    "contextTokens": 31384,
-    "percentage": 16
+    "contextTokens": 37051,
+    "percentage": 19
   }
 }

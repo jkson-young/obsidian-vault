@@ -1,4 +1,4 @@
 {
-  "folder": "Calendar/Journal/Daily",
-  "template": "Templates/日记模板"
+  "folder": "Daily",
+  "template": "System/Templates/日记模板"
 }
