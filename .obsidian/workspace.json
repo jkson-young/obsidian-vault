@@ -213,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -240,9 +240,12 @@
   },
   "active": "7053d71d9db14895",
   "lastOpenFiles": [
+    "System/Templates/Daily-TEMPLATE.md",
     "System/Templates/日记模板.md",
     "System/Templates/TEMPLATE-Daily.md",
-    "System/Templates/Daily-TEMPLATE.md",
+    "Daily/2026-04-22.md",
+    "Daily/2026-04-23.md",
+    "Daily/2026-04-24.md",
     "System/Templates/Daily.canvas",
     "Habits Tracker.md",
     "Daily/2026-04-14.md",
@@ -252,9 +255,6 @@
     "都2026了，你还不会用Obsidian？.md",
     "Daily/2026-04-21.md",
     "System",
-    "Daily/2026-04-22.md",
-    "Daily/2026-04-23.md",
-    "Daily/2026-04-24.md",
     "Daily/2026-04-02.md",
     "Daily/2026-04-01.md",
     "Daily/2026-03-26.md",
