@@ -10,7 +10,7 @@ const trackerData = {
     }
 }
 
-for(let page of dv.pages('"Calendar/Journal/Daily"').where(p => p.meditation)) {
+for(let page of dv.pages('"Daily"').where(p => p.meditation)) {
     trackerData.entries.push({
         date: page.file.name,
         intensity: 1
@@ -52,7 +52,7 @@ const trackerData = {
     }
 }
 
-for(let page of dv.pages('"Calendar/Journal/Daily"').where(p => p.reading)) {
+for(let page of dv.pages('"Daily"').where(p => p.reading)) {
     trackerData.entries.push({
         date: page.file.name,
         intensity: 1
