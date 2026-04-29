@@ -65,9 +65,11 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "locale": "zh-CN",
+  "locale": "en",
   "claudeCliPath": "",
-  "claudeCliPathsByHost": {},
+  "claudeCliPathsByHost": {
+    "DESKTOP-2DDREN7": "D:\\software\\Node.js\\node_global\\node_modules\\@anthropic-ai\\claude-code\\bin\\claude.exe"
+  },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
