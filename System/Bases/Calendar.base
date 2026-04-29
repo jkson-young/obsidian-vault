@@ -14,8 +14,10 @@ views:
       - file.name
       - formula.highlight
     sort:
+      - property: formula.highlight
+        direction: ASC
       - property: file.name
-        direction: DESC
+        direction: ASC
     columnSize:
       formula.✨: 51
       file.name: 142

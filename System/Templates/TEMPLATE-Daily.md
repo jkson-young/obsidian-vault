@@ -6,6 +6,7 @@ tags:
   - 日记
 cssclasses:
   - daily-card
+date:
 ---
 > [!todo] 每日习惯打卡
 > - [ ] 10分钟冥想
@@ -15,10 +16,19 @@ cssclasses:
 > - [ ] 15分钟整理
 > - [ ] 健身
 
+
 >[!summary] 每日任务
 >- [ ] 盛天学院每日签到
 >- [ ] 
 >- [ ] 1
 
+
 >[!quote] 自由写作
->
+
+
+<%*
+let birth = "1998-11-23";
+let death = moment(birth).add(80, 'years');
+let daysLeft = death.diff(moment(tp.file.title, "YYYY-MM-DD"), 'days');
+%>
+> [!error] 死亡倒计时：**<% daysLeft %> 天**
