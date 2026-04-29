@@ -21,7 +21,7 @@ cssclasses:
 >- [ ] 
 
 
->[!quote] 自由写作
+>[!quote] Free Write
 
 
 <%*
@@ -30,3 +30,5 @@ let death = moment(birth).add(80, 'years');
 let daysLeft = death.diff(moment(tp.file.title, "YYYY-MM-DD"), 'days');
 %>
 > [!error] 死亡倒计时：**<% daysLeft %> 天**
+
+![[On This Day.base]]
