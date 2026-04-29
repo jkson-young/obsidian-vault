@@ -1,12 +1,10 @@
 ---
-aliases:
-  - "{{date:YYYY-MM-DD}}"
+date: '<% tp.file.title %>'
 心情: 😐
 tags:
   - 日记
 cssclasses:
   - daily-card
-date:
 ---
 > [!todo] 每日习惯打卡
 > - [ ] 10分钟冥想
@@ -20,7 +18,7 @@ date:
 >[!summary] 每日任务
 >- [ ] 盛天学院每日签到
 >- [ ] 
->- [ ] 1
+>- [ ] 
 
 
 >[!quote] 自由写作
