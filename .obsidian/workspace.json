@@ -30,8 +30,8 @@
               "type": "markdown",
               "state": {
                 "file": "System/Templates/TEMPLATE-Daily.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "TEMPLATE-Daily"
@@ -241,16 +241,16 @@
   "active": "7053d71d9db14895",
   "lastOpenFiles": [
     "System/Templates/日记模板.md",
+    "System/Templates/TEMPLATE-Daily.md",
+    "Daily/2026-04-29.md",
     "Study/Obsidian/Obsidian Callout.md",
     "System/Templates/Daily-TEMPLATE.md",
-    "System/Templates/TEMPLATE-Daily.md",
     "Daily/2026-04-22.md",
     "Daily/2026-04-23.md",
     "Daily/2026-04-24.md",
     "System/Templates/Daily.canvas",
     "Habits Tracker.md",
     "Daily/2026-04-14.md",
-    "Daily/2026-04-29.md",
     "🏠 Home.md",
     "Work/活动助手测试环境安装.md",
     "都2026了，你还不会用Obsidian？.md",

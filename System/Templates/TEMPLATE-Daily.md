@@ -1,3 +1,12 @@
+---
+aliases:
+  - "{{date:YYYY-MM-DD}}"
+心情: 😐
+tags:
+  - 日记
+cssclasses:
+  - daily-card
+---
 > [!todo] 每日习惯打卡
 > - [ ] 10分钟冥想
 > - [ ] 15分钟自由写作
@@ -11,3 +20,5 @@
 >- [ ] 
 >- [ ] 1
 
+>[!quote] 自由写作
+>
