@@ -31,7 +31,7 @@ const trackerData = {
     }
 }
 
-for(let page of dv.pages('"Calendar/Journal/Daily"').where(p => p.workout)) {
+for(let page of dv.pages('"Daily"').where(p => p.workout)) {
     trackerData.entries.push({
         date: page.file.name,
         intensity: 1
