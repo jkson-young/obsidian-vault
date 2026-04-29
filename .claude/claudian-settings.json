@@ -40,9 +40,9 @@
     ]
   },
   "permissionMode": "yolo",
-  "model": "kimi-k2.6",
-  "thinkingBudget": "xhigh",
-  "effortLevel": "low",
+  "model": "opus",
+  "thinkingBudget": "medium",
+  "effortLevel": "high",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
   "enableChrome": false,
@@ -57,7 +57,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "ENABLE_TOOL_SEARCH=false\nANTHROPIC_BASE_URL=https://api.kimi.com/coding/\nANTHROPIC_API_KEY=sk-kimi-OqVKfqiWawuiemfEFsA3M3VrkFxOWBhNWxp8IBxj8YGmK56EFHxuy3lJTmz8pKiL\nANTHROPIC_MODEL=kimi-k2.6",
+  "environmentVariables": "",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -71,9 +71,9 @@
     "DESKTOP-2DDREN7": "D:\\software\\Node.js\\node_global\\node_modules\\@anthropic-ai\\claude-code\\bin\\claude.exe"
   },
   "loadUserClaudeSettings": true,
-  "lastClaudeModel": "haiku",
+  "lastClaudeModel": "opus",
   "lastCustomModel": "",
-  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.kimi.com/coding/|ANTHROPIC_MODEL=kimi-k2.6",
+  "lastEnvHash": "",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,

@@ -5,7 +5,7 @@
   "createdAt": 1776828470817,
   "updatedAt": 1776838261233,
   "lastResponseAt": 1776838261233,
-  "sessionId": "28185c0f-4718-4f54-991f-ade7c55dc26b",
+  "sessionId": null,
   "sdkSessionId": "28185c0f-4718-4f54-991f-ade7c55dc26b",
   "usage": {
     "model": "kimi-k2.6",

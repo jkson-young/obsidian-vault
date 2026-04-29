@@ -3,17 +3,20 @@
   "title": "Ingest Playwright tutorial article",
   "titleGenerationStatus": "success",
   "createdAt": 1776941687232,
-  "updatedAt": 1777446845630,
-  "lastResponseAt": 1777446845630,
-  "sessionId": "98e58a12-9da0-4e37-b3c5-cf56fe544287",
-  "sdkSessionId": "98e58a12-9da0-4e37-b3c5-cf56fe544287",
+  "updatedAt": 1777448451368,
+  "lastResponseAt": 1777448451368,
+  "sessionId": "c176ce41-92a0-4189-b7dd-3243831586ba",
+  "sdkSessionId": "c176ce41-92a0-4189-b7dd-3243831586ba",
+  "previousSdkSessionIds": [
+    "98e58a12-9da0-4e37-b3c5-cf56fe544287"
+  ],
   "usage": {
-    "model": "kimi-k2.6",
-    "inputTokens": 0,
+    "model": "opus",
+    "inputTokens": 31303,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 81,
     "contextWindow": 200000,
-    "contextTokens": 0,
-    "percentage": 0
+    "contextTokens": 31384,
+    "percentage": 16
   }
 }
