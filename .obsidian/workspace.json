@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System/Templates/TEMPLATE-Daily.md",
+                "file": "System/Templates/Daily-TEMPLATE.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TEMPLATE-Daily"
+              "title": "Daily-TEMPLATE"
             }
           }
         ],
@@ -240,8 +240,8 @@
   },
   "active": "7053d71d9db14895",
   "lastOpenFiles": [
-    "System/Templates/日记模板.md",
     "System/Templates/TEMPLATE-Daily.md",
+    "System/Templates/日记模板.md",
     "Daily/2026-04-29.md",
     "Study/Obsidian/Obsidian Callout.md",
     "System/Templates/Daily-TEMPLATE.md",
