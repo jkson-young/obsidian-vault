@@ -27,13 +27,14 @@
             "id": "08ee11bb43079714",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Calendar.base",
-                "viewName": "Calendar"
+                "file": "llm-wiki/log/20260422.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "20260422"
             }
           }
         ],
@@ -237,8 +238,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "08ee11bb43079714",
+  "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
+    "llm-wiki/wiki/index.md",
+    "Clippings/Prompt Engineering Full Course.md",
+    "Bases/Calendar.base",
+    "Skills",
+    "llm-wiki/log/20260429.md",
+    "llm-wiki/log/20260429.md.tmp.90996.1777426444249",
+    "llm-wiki/CLAUDE.md.tmp.90996.1777426423457",
+    "llm-wiki/CLAUDE.md.tmp.90996.1777426418124",
+    "llm-wiki/wiki/index.md.tmp.90996.1777426376723",
+    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md.tmp.90996.1777426344095",
     "Study/Obsidian/Obsidian Callout.md",
     "Study/Obsidian",
     "Study",
@@ -258,7 +269,6 @@
     "llm-wiki/log/20260423.md",
     "llm-wiki/CLAUDE.md",
     "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
-    "llm-wiki/wiki/index.md",
     "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
     "Calendar/Journal/Daily/2026-04-03.md",
@@ -266,15 +276,6 @@
     "Calendar/Journal/Daily/2026-04-01.md",
     "Calendar/Journal/Daily/2026-03-31.md",
     "Calendar/Journal/Daily/2026-03-30.md",
-    "Calendar/Journal/Daily/2026-03-29.md",
-    "Calendar/Journal/Daily/2026-03-28.md",
-    "llm-wiki/log/20260427.md.tmp.90092.1777256774760",
-    "llm-wiki/CLAUDE.md.tmp.90092.1777256759280",
-    "llm-wiki/CLAUDE.md.tmp.90092.1777256737634",
-    "llm-wiki/wiki/index.md.tmp.90092.1777256716216",
-    "llm-wiki/wiki/index.md.tmp.90092.1777256706744",
-    "llm-wiki/wiki/index.md.tmp.90092.1777256698052",
-    "llm-wiki/wiki/index.md.tmp.90092.1777256691034",
     "Attachments/Pasted image 20260407201432.png",
     "Attachments/Pasted image 20260407200929.png",
     "Attachments/Pasted image 20260407200716.png",

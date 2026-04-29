@@ -15,7 +15,6 @@ related:
   - "[[concepts/Claude Code]]"
   - "[[concepts/第二大脑]]"
   - "[[concepts/LLM Wiki]]"
-  - "[[prompt提示工程]]"
 ---
 
 将 LLM 用作「思考伙伴」（Thinking Partner）而非单纯的代码生成器或问答机器，是一种更深层的 AI 使用模式。它强调**协同思考**而非**委托执行**。

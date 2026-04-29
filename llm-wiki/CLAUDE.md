@@ -9,7 +9,7 @@
 
 **1. AI / 技术研究**
 - 前沿论文、工具、框架的跟踪与消化
-- 大模型、Agent、RAG、Prompt Engineering 等概念
+- 大模型、Agent、RAG 等概念
 - 代码实现、实验记录、性能对比
 
 **2. 个人知识管理**
@@ -65,42 +65,22 @@
 ### Concepts
 - [[concepts/LLM Wiki]] — 利用 LLM 增量构建和维护持久化 wiki 的知识管理模式
 - [[concepts/RAG]] — 检索增强生成：外部知识检索与 LLM 生成结合的架构
-- [[concepts/浏览器自动化]] — 浏览器自动化技术体系
-- [[concepts/端到端测试]] — 端到端测试方法与最佳实践
-- [[concepts/测试金字塔]] — Mike Cohn 推广的测试策略分层模型
-- [[concepts/测试驱动开发]] — 先写测试再写实现的红绿重构循环
-- [[concepts/可访问性测试]] — 验证应用对辅助技术用户的可用性
-- [[concepts/AI辅助测试]] — 利用 AI 生成、执行和维护自动化测试
 - [[concepts/Claude Code]] — Anthropic 的命令行 Agent
 - [[concepts/LLM作为思考伙伴]] — 将 LLM 用作协同思考者
 - [[concepts/Obsidian]] — 基于本地 markdown 和双向链接的笔记工具
 - [[concepts/第二大脑]] — 外部化知识管理系统
-- [[concepts/prompt提示工程]] — 提示工程方法论
 
 ### Entities
 - [[entities/Andrej Karpathy]] — 深度学习研究者、AI 教育者，LLM Wiki 模式的提出者
 - [[entities/Vannevar Bush]] — 工程师与科学管理者，Memex 概念的提出者（1945）
-- [[entities/Playwright]] — Microsoft 开源的多浏览器自动化框架
-- [[entities/Puppeteer]] — Google 推出的 Chromium 自动化库
-- [[entities/Microsoft]] — 全球最大的软件公司之一
-- [[entities/Testopic]] — 测试技术教育频道
-- [[entities/freeCodeCamp]] — 全球最大的免费编程教育平台
-- [[entities/TestMu]] — 软件测试领域公司，KaneAI 的开发者
-- [[entities/KaneAI]] — AI 原生测试 Agent，支持自然语言生成测试
 - [[entities/Vin]] — Obsidian + Claude Code 深度实践者
-- [[entities/Varun Mayya]] — 提示工程世界构建理论提出者
-- [[entities/Tech With Tim]] — 提示工程系统化教学创作者
 - [[entities/Greg Isenberg]] — Startup Ideas 播客主持人
 - [[entities/Obsidian]] — 笔记工具公司/产品
 
 ### Summaries
 - [[summaries/karpathy-wiki-methodology]] — Karpathy 的 LLM Wiki 模式：编译优于检索、三层架构、Ingest/Query/Lint 操作
-- [[summaries/software-testing-course-playwright-e2e-ai]] — freeCodeCamp 软件测试系统课程
-- [[summaries/what-is-playwright]] — Testopic Playwright 入门教程
 - [[summaries/how-i-use-obsidian-claude-code]] — Vin 的 Obsidian + Claude Code 实践
 - [[summaries/obsidian-claude-codebook]] — 12 个自定义 slash 命令手册
-- [[summaries/99-percent-prompt-ai-wrong]] — Varun Mayya 的提示工程技巧
-- [[summaries/prompt-engineering-full-course]] — Tech With Tim 的提示工程系统教学
 
 ## Open research questions
 
