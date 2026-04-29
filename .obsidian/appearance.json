@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
-    "daily-card"
+    "daily-card",
+    "Daily Note Themes"
   ],
   "cssTheme": "Velocity",
   "theme": "moonstone"
