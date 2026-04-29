@@ -23,12 +23,8 @@ cssclasses:
 
 ---
 ### 📜Tasks
-
-#### 🏗️Work
 - [ ] 盛天学院每日签到
 - [ ] 
-
-#### 📝Study
 - [ ] 
 
 ---
@@ -38,8 +34,6 @@ cssclasses:
 - 📖[reading::]
 - 🏋🏻‍♂️[workout::]
 
-#### End-of-Day Checklist
-- [ ] Backup Vault
 ---
 
 <%*
