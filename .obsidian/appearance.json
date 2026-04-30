@@ -5,5 +5,6 @@
   ],
   "cssTheme": "Velocity",
   "theme": "moonstone",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
