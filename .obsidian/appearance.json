@@ -4,5 +4,6 @@
     "Daily Note Themes"
   ],
   "cssTheme": "Velocity",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSizeAction": true
 }
