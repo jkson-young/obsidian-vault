@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "都2026了，你还不会用Obsidian？.md",
+                "file": "Study/Obsidian/Obsidian Callout.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "都2026了，你还不会用Obsidian？"
+              "title": "Obsidian Callout"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "都2026了，你还不会用Obsidian？.md",
+                "file": "🏠 Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "都2026了，你还不会用Obsidian？ 的出链列表"
+              "title": "🏠 Home 的出链列表"
             }
           },
           {
@@ -217,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 500.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,15 +239,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d5695461a7d38ce2",
+  "active": "b3ea4459616f7ae8",
   "lastOpenFiles": [
-    "超高的工作效率.md",
-    "都2026了，你还不会用Obsidian？.md",
+    "Study/Obsidian/Obsidian Callout.md",
     "工具清单：按层拆解.md",
+    "都2026了，你还不会用Obsidian？.md",
     "🏠 Home.md",
+    "超高的工作效率.md",
     "Daily/2026-03-31.md",
     "Work/活动助手测试环境安装.md",
-    "Study/Obsidian/Obsidian Callout.md",
     "Daily/2026-04-03.md",
     "Daily/2026-04-13.md",
     "Daily/2026-04-17.md",

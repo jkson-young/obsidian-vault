@@ -3,8 +3,8 @@
     "daily-card",
     "Daily Note Themes"
   ],
-  "cssTheme": "AnuPpuccin",
-  "theme": "moonstone",
+  "cssTheme": "Dracula + LYT",
+  "theme": "obsidian",
   "baseFontSizeAction": true,
   "nativeMenus": false
 }
