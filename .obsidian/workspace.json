@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "🏠 Home"
             }
-          },
-          {
-            "id": "a43e95c40f756952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Habits Tracker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Habits Tracker"
-            }
-          },
-          {
-            "id": "33117d8f08b6ab1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "金字塔原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "金字塔原理"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,11 +223,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33117d8f08b6ab1c",
+  "active": "b3ea4459616f7ae8",
   "lastOpenFiles": [
-    "Habits Tracker.md",
-    "金字塔原理.md",
+    "Daily/2026-04-13.md",
+    "Daily/2026-04-17.md",
+    "Daily/2026-04-15.md",
+    "Daily/2026-04-09.md",
+    "Daily/2026-04-06.md",
+    "Daily/2026-04-03.md",
+    "Daily/2026-03-31.md",
+    "Daily/2026-03-28.md",
+    "Daily/2026-03-27.md",
+    "Daily/2026-03-26.md",
     "工具清单：按层拆解.md",
+    "金字塔原理.md",
+    "Habits Tracker.md",
     "🏠 Home.md",
     "Daily/2026-04-29.md",
     "System/Templates/模板-每日日记.md",
@@ -265,25 +246,15 @@
     "System/Templates/TEMPLATE-Daily.md",
     "Daily/2026-04-10.md",
     "Daily/2026-04-07.md",
-    "Daily/2026-04-03.md",
     "Daily/2026-04-21.md",
     "Daily/2026-04-22.md",
     "Daily/2026-04-24.md",
     "Daily/2026-04-20.md",
     "2026-04.md",
     "Daily/2026-04-16.md",
-    "Daily/2026-04-02.md",
-    "Daily/2026-04-01.md",
-    "九诗心：暗夜里的文学启明.md",
-    "Daily/2026-03-29.md",
-    "System/Templates/日记模板.md",
-    "fdasfsdf.md",
-    "都2026了，你还不会用Obsidian？.md",
     "未命名 1.base",
     "未命名.base",
     "System/Bases/On This Day.base",
-    "asdsdf.md",
-    "Daily/2026-04-30.md",
     "System/Templates/Daily.canvas",
     "System",
     "Daily",
