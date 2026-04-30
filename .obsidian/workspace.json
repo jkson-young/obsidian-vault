@@ -106,7 +106,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,7 +235,7 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "6f0c4ccedd2568c6",
+  "active": "b220e80a42e9584f",
   "lastOpenFiles": [
     "都2026了，你还不会用Obsidian？.md",
     "Work/活动助手测试环境安装.md",
