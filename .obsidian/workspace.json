@@ -41,10 +41,15 @@
             "id": "6f0c4ccedd2568c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "都2026了，你还不会用Obsidian？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "都2026了，你还不会用Obsidian？"
             }
           }
         ],
@@ -121,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "都2026了，你还不会用Obsidian？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "都2026了，你还不会用Obsidian？ 的出链列表"
             }
           },
           {
