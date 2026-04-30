@@ -50,5 +50,15 @@
       "key": "R"
     }
   ],
-  "workspace:goto-tab-2": []
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-3": [],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ]
 }
