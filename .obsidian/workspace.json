@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "🏠 Home"
             }
+          },
+          {
+            "id": "8a85e7ea8264b7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-03-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-31"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 525.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +238,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b3ea4459616f7ae8",
+  "active": "8a85e7ea8264b7d0",
   "lastOpenFiles": [
+    "🏠 Home.md",
     "Daily/2026-04-13.md",
     "Daily/2026-04-17.md",
     "Daily/2026-04-15.md",
@@ -238,7 +254,6 @@
     "工具清单：按层拆解.md",
     "金字塔原理.md",
     "Habits Tracker.md",
-    "🏠 Home.md",
     "Daily/2026-04-29.md",
     "System/Templates/模板-每日日记.md",
     "System/Bases/Calendar.base",

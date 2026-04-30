@@ -10,5 +10,6 @@
   },
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showLineNumber": false
 }
