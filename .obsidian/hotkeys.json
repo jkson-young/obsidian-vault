@@ -40,5 +40,14 @@
       ],
       "key": "Escape"
     }
+  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
