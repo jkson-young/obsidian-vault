@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+                "file": "Work/易乐途测试环境安装.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "途邦SCRM-易乐途门店设备信息上报美团测试"
+              "title": "易乐途测试环境安装"
             }
           }
         ],
@@ -165,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+                "file": "Work/易乐途测试环境安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的出链列表"
+              "title": "易乐途测试环境安装 的出链列表"
             }
           },
           {
@@ -253,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+                "file": "Work/易乐途测试环境安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的反向链接列表"
+              "title": "易乐途测试环境安装 的反向链接列表"
             }
           }
         ]
@@ -293,6 +293,7 @@
   },
   "active": "b7fadf9dec78844e",
   "lastOpenFiles": [
+    "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
     "Work/易乐途测试环境安装.md",
     "🏠 Home.md",
     "Study/Obsidian/Obsidian Callout.md",
@@ -319,7 +320,6 @@
     "System/Templates/TEMPLATE-Daily.md",
     "Daily/2026-04-10.md",
     "Daily/2026-04-07.md",
-    "Daily/2026-04-21.md",
     "未命名 1.base",
     "未命名.base",
     "System/Bases/On This Day.base",
