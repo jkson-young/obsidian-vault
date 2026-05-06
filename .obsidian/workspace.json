@@ -66,8 +66,33 @@
               "icon": "lucide-file",
               "title": "Obsidian Callout"
             }
+          },
+          {
+            "id": "b7fadf9dec78844e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "途邦SCRM-易乐途门店设备信息上报美团测试"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "🏠 Home 的出链列表"
+              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的出链列表"
             }
           },
           {
@@ -228,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +263,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "🏠 Home 的反向链接列表"
+              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的反向链接列表"
             }
           }
         ]
@@ -266,12 +291,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b3ea4459616f7ae8",
+  "active": "b7fadf9dec78844e",
   "lastOpenFiles": [
+    "Work/易乐途测试环境安装.md",
+    "🏠 Home.md",
     "Study/Obsidian/Obsidian Callout.md",
     "工具清单：按层拆解.md",
     "都2026了，你还不会用Obsidian？.md",
-    "🏠 Home.md",
     "超高的工作效率.md",
     "Daily/2026-03-31.md",
     "Work/活动助手测试环境安装.md",
@@ -294,7 +320,6 @@
     "Daily/2026-04-10.md",
     "Daily/2026-04-07.md",
     "Daily/2026-04-21.md",
-    "Daily/2026-04-22.md",
     "未命名 1.base",
     "未命名.base",
     "System/Bases/On This Day.base",
