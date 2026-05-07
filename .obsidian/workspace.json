@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Obsidian/Obsidian Callout.md",
+                "file": "llm-wiki/wiki/entities/Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,35 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian Callout"
-            }
-          },
-          {
-            "id": "b7fadf9dec78844e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-22-how-to-design-custom-slash-commands"
+              "title": "Obsidian"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 267.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -165,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
+                "file": "llm-wiki/wiki/entities/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-22-how-to-design-custom-slash-commands 的出链列表"
+              "title": "Obsidian 的出链列表"
             }
           },
           {
@@ -203,6 +179,43 @@
             }
           },
           {
+            "id": "bc2cf73cace9b14e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "llm-wiki/wiki/entities/Obsidian.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Obsidian 的关系图"
+            }
+          },
+          {
             "id": "7c467e5fc5267277",
             "type": "leaf",
             "state": {
@@ -218,13 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
+                "file": "llm-wiki/wiki/entities/Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "how-i-use-obsidian-claude-code 的大纲"
+              "title": "Obsidian 的大纲"
             }
           },
           {
@@ -266,11 +279,12 @@
               "title": "2026-04-22-how-to-design-custom-slash-commands 的反向链接列表"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 535.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,8 +305,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b7fadf9dec78844e",
+  "active": "bc2cf73cace9b14e",
   "lastOpenFiles": [
+    "Study/Obsidian/Obsidian Callout.md",
+    "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
     "llm-wiki/raw/articles/上头Obsidian手把手教你用AI做好知识管理 (Shiki实验室) .docx",
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
@@ -308,7 +324,6 @@
     "Work/易乐途测试环境安装.md",
     "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
     "🏠 Home.md",
-    "Study/Obsidian/Obsidian Callout.md",
     "工具清单：按层拆解.md",
     "都2026了，你还不会用Obsidian？.md",
     "超高的工作效率.md",
@@ -329,7 +344,6 @@
     "Skills",
     "llm-wiki/log/20260429.md.tmp.90996.1777426444249",
     "llm-wiki/CLAUDE.md.tmp.90996.1777426423457",
-    "llm-wiki/CLAUDE.md.tmp.90996.1777426418124",
     "System/Attachments/Pasted image 20260407201432.png",
     "System/Attachments/Pasted image 20260407200929.png",
     "System/Attachments/Pasted image 20260407200716.png",
