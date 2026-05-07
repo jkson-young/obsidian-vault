@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
+                "file": "Daily/2026-05-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,12 +59,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-22-how-to-design-custom-slash-commands"
+              "title": "2026-05-07"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
+                "file": "Daily/2026-05-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-04-22-how-to-design-custom-slash-commands 的关系图"
+              "title": "2026-05-07 的关系图"
             }
           },
           {
@@ -280,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -305,12 +305,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c9f90e6e7c0a7680",
+  "active": "1683c5f0e9b46a3e",
   "lastOpenFiles": [
-    "Daily/2026-05-07.md",
-    "llm-wiki/wiki/entities/Obsidian.md",
+    "System/Templates/模板-每日日记.md",
+    "System/Templates/TEMPLATE-Daily.md",
+    "System/Templates/Daily-TEMPLATE.md",
+    "System/Templates/日记模板.md",
     "Study/Obsidian/Obsidian Callout.md",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
+    "Daily/2026-05-07.md",
+    "llm-wiki/wiki/entities/Obsidian.md",
     "llm-wiki/raw/articles/上头Obsidian手把手教你用AI做好知识管理 (Shiki实验室) .docx",
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "llm-wiki/wiki/summaries/obsidian-claude-codebook.md",
@@ -330,10 +334,6 @@
     "超高的工作效率.md",
     "Daily/2026-03-31.md",
     "Work/活动助手测试环境安装.md",
-    "Daily/2026-04-03.md",
-    "Daily/2026-04-13.md",
-    "Daily/2026-04-17.md",
-    "Daily/2026-04-15.md",
     "System/Bases/Calendar.base",
     "未命名 1.base",
     "未命名.base",
