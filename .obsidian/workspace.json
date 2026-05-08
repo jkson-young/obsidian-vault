@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-05-07.md",
+                "file": "Daily/2026-05-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-07"
+              "title": "2026-05-08"
             }
           }
         ],
@@ -333,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-05-07.md",
+                "file": "Daily/2026-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +343,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-07 的反向链接列表"
+              "title": "2026-05-08 的反向链接列表"
             }
           }
         ],
@@ -372,10 +372,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1683c5f0e9b46a3e",
+  "active": "254be86db0155578",
   "lastOpenFiles": [
-    "Daily/2026-05-08.md",
     "Daily/2026-05-07.md",
+    "Daily/2026-05-08.md",
     "Daily/2026-05-08.md.tmp.55916.1778232828298",
     "Study/Obsidian/Obsidian快捷键.md",
     "Study/Obsidian/Obsidian自动补全.md",
