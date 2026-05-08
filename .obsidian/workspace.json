@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "8b644d9bdaee95bd",
+            "id": "6e905e9451a89d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +66,33 @@
               "icon": "lucide-file",
               "title": "Obsidian快捷键"
             }
+          },
+          {
+            "id": "29a4978a73307560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Obsidian/快速切换器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "快速切换器"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Obsidian/Obsidian快捷键.md",
+                "file": "Study/Obsidian/快速切换器.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +236,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Obsidian快捷键 的关系图"
+              "title": "快速切换器 的关系图"
             }
           },
           {
@@ -305,11 +329,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8b644d9bdaee95bd",
+  "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
+    "Study/Obsidian/快速切换器.md",
+    "Study/Obsidian/Obsidian快捷键.md",
+    "笔记.md",
     "Study/Obsidian/Obsidian设置项.md",
     "Study/Obsidian/Obsidian Callout.md",
-    "Study/Obsidian/Obsidian快捷键.md",
     "金字塔原理.md",
     "未命名.md",
     "Daily/2026-05-07.md",
@@ -333,8 +359,6 @@
     "llm-wiki/wiki/concepts/第二大脑.md",
     "Work/易乐途测试环境安装.md",
     "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
-    "🏠 Home.md",
-    "工具清单：按层拆解.md",
     "System/Bases/Calendar.base",
     "未命名 1.base",
     "未命名.base",
