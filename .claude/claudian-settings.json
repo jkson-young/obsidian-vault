@@ -41,7 +41,7 @@
   },
   "permissionMode": "yolo",
   "model": "MiniMax-M2.7",
-  "thinkingBudget": "medium",
+  "thinkingBudget": "xhigh",
   "effortLevel": "high",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
