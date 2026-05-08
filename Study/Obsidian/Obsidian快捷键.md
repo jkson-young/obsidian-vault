@@ -1,8 +1,7 @@
 ---
 date: 2026-05-08
 tags:
-  - obsidian
-  - 快捷键
+  - Obsidian快捷键
 ---
 
 | 快捷键              | 作用                                  |
