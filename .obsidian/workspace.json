@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Obsidian/Obsidian设置项.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian设置项"
+              "title": "Obsidian快捷键"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Obsidian/Obsidian设置项.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Obsidian设置项 的关系图"
+              "title": "Obsidian快捷键 的关系图"
             }
           },
           {
@@ -307,8 +307,8 @@
   },
   "active": "8b644d9bdaee95bd",
   "lastOpenFiles": [
-    "Study/Obsidian/Obsidian Callout.md",
     "Study/Obsidian/Obsidian设置项.md",
+    "Study/Obsidian/Obsidian Callout.md",
     "Study/Obsidian/Obsidian快捷键.md",
     "金字塔原理.md",
     "未命名.md",
