@@ -89,5 +89,16 @@
       ],
       "key": "Enter"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "switcher:open": []
 }

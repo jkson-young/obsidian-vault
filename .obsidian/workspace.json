@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Obsidian/快速切换器.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,11 +88,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "快速切换器"
+              "title": "Obsidian快捷键"
+            }
+          },
+          {
+            "id": "254be86db0155578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Obsidian/Obsidian快捷键.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian快捷键"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,7 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Obsidian/快速切换器.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +260,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "快速切换器 的关系图"
+              "title": "Obsidian快捷键 的关系图"
             }
           },
           {
@@ -302,6 +326,16 @@
               "icon": "links-coming-in",
               "title": "2026-04-22-how-to-design-custom-slash-commands 的反向链接列表"
             }
+          },
+          {
+            "id": "3396936b09d7b8b7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 3
@@ -329,13 +363,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d5695461a7d38ce2",
+  "active": "254be86db0155578",
   "lastOpenFiles": [
-    "Study/Obsidian/快速切换器.md",
+    "Study/Obsidian/Obsidian Callout.md",
+    "Study/Obsidian/命令面板.md",
     "Study/Obsidian/Obsidian快捷键.md",
+    "Study/Obsidian/快速切换器.md",
     "笔记.md",
     "Study/Obsidian/Obsidian设置项.md",
-    "Study/Obsidian/Obsidian Callout.md",
     "金字塔原理.md",
     "未命名.md",
     "Daily/2026-05-07.md",
@@ -358,7 +393,6 @@
     "llm-wiki/wiki/concepts/RAG.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
     "Work/易乐途测试环境安装.md",
-    "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
     "System/Bases/Calendar.base",
     "未命名 1.base",
     "未命名.base",
