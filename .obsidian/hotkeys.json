@@ -60,5 +60,13 @@
       ],
       "key": "1"
     }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
   ]
 }
