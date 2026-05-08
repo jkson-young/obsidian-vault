@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Obsidian/快速切换器.md",
+                "file": "Study/Obsidian/Obsidian自动补全.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "快速切换器"
+              "title": "Obsidian自动补全"
             }
           }
         ],
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Obsidian/快速切换器.md",
+                "file": "Study/Obsidian/Obsidian自动补全.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "快速切换器 的关系图"
+              "title": "Obsidian自动补全 的关系图"
             }
           },
           {
@@ -317,12 +317,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Obsidian/快速切换器.md",
+                "file": "Study/Obsidian/Obsidian自动补全.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "快速切换器 的出链列表"
+              "title": "Obsidian自动补全 的出链列表"
             }
           },
           {
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Obsidian/快速切换器.md",
+                "file": "Study/Obsidian/Obsidian自动补全.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "快速切换器 的反向链接列表"
+              "title": "Obsidian自动补全 的反向链接列表"
             }
           }
         ],
@@ -370,15 +370,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bc2cf73cace9b14e",
+  "active": "254be86db0155578",
   "lastOpenFiles": [
-    "Study/Obsidian/Obsidian自动补全.md",
-    "Study/Obsidian/Obsidian快捷键.md",
-    "Study/Obsidian/Obsidian Callout.md",
     "Study/Obsidian/命令面板.md",
     "Study/Obsidian/快速切换器.md",
-    "笔记.md",
+    "Study/Obsidian/Obsidian Callout.md",
+    "Study/Obsidian/Obsidian快捷键.md",
     "Study/Obsidian/Obsidian设置项.md",
+    "Study/Obsidian/Obsidian自动补全.md",
+    "笔记.md",
     "金字塔原理.md",
     "未命名.md",
     "Daily/2026-05-07.md",
