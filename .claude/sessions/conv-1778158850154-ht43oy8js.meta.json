@@ -3,17 +3,20 @@
   "title": "Start conversation",
   "titleGenerationStatus": "success",
   "createdAt": 1778158850186,
-  "updatedAt": 1778159074615,
-  "lastResponseAt": 1778159074614,
-  "sessionId": null,
-  "sdkSessionId": "9da7fd59-a823-4321-9054-b77acd5a2323",
+  "updatedAt": 1778232840931,
+  "lastResponseAt": 1778232840931,
+  "sessionId": "f5f5d9b7-a315-4af6-8c64-d82c4d89ebf5",
+  "sdkSessionId": "f5f5d9b7-a315-4af6-8c64-d82c4d89ebf5",
+  "previousSdkSessionIds": [
+    "9da7fd59-a823-4321-9054-b77acd5a2323"
+  ],
   "usage": {
-    "model": "kimi-k2.6",
-    "inputTokens": 34727,
+    "model": "MiniMax-M2.7",
+    "inputTokens": 6340,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 19583,
+    "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 54310,
-    "percentage": 27
+    "contextTokens": 6340,
+    "percentage": 3
   }
 }
