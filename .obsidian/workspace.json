@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Obsidian/Obsidian快捷键.md",
+                "file": "Study/Obsidian/Obsidian设置项.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian快捷键"
+              "title": "Obsidian设置项"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Obsidian/Obsidian快捷键.md",
+                "file": "Study/Obsidian/Obsidian设置项.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Obsidian快捷键 的关系图"
+              "title": "Obsidian设置项 的关系图"
             }
           },
           {
@@ -307,8 +307,10 @@
   },
   "active": "8b644d9bdaee95bd",
   "lastOpenFiles": [
-    "金字塔原理.md",
+    "Study/Obsidian/Obsidian Callout.md",
+    "Study/Obsidian/Obsidian设置项.md",
     "Study/Obsidian/Obsidian快捷键.md",
+    "金字塔原理.md",
     "未命名.md",
     "Daily/2026-05-07.md",
     "Daily/2026-05-07.md.tmp.94104.1778159065916",
@@ -316,7 +318,6 @@
     "System/Templates/TEMPLATE-Daily.md",
     "System/Templates/Daily-TEMPLATE.md",
     "System/Templates/日记模板.md",
-    "Study/Obsidian/Obsidian Callout.md",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
     "llm-wiki/wiki/entities/Obsidian.md",
     "llm-wiki/raw/articles/上头Obsidian手把手教你用AI做好知识管理 (Shiki实验室) .docx",
@@ -334,7 +335,6 @@
     "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
     "🏠 Home.md",
     "工具清单：按层拆解.md",
-    "都2026了，你还不会用Obsidian？.md",
     "System/Bases/Calendar.base",
     "未命名 1.base",
     "未命名.base",
