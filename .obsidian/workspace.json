@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "c9f90e6e7c0a7680",
+            "id": "8b644d9bdaee95bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-05-07.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,12 +59,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-07"
+              "title": "Obsidian快捷键"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2026-05-07.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-05-07 的关系图"
+              "title": "Obsidian快捷键 的关系图"
             }
           },
           {
@@ -280,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -305,8 +305,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c9f90e6e7c0a7680",
+  "active": "8b644d9bdaee95bd",
   "lastOpenFiles": [
+    "金字塔原理.md",
+    "Study/Obsidian/Obsidian快捷键.md",
+    "未命名.md",
+    "Daily/2026-05-07.md",
     "Daily/2026-05-07.md.tmp.94104.1778159065916",
     "System/Templates/模板-每日日记.md",
     "System/Templates/TEMPLATE-Daily.md",
@@ -314,7 +318,6 @@
     "System/Templates/日记模板.md",
     "Study/Obsidian/Obsidian Callout.md",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
-    "Daily/2026-05-07.md",
     "llm-wiki/wiki/entities/Obsidian.md",
     "llm-wiki/raw/articles/上头Obsidian手把手教你用AI做好知识管理 (Shiki实验室) .docx",
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
@@ -332,8 +335,6 @@
     "🏠 Home.md",
     "工具清单：按层拆解.md",
     "都2026了，你还不会用Obsidian？.md",
-    "超高的工作效率.md",
-    "Daily/2026-03-31.md",
     "System/Bases/Calendar.base",
     "未命名 1.base",
     "未命名.base",
@@ -343,7 +344,6 @@
     "Daily",
     "Skills",
     "llm-wiki/log/20260429.md.tmp.90996.1777426444249",
-    "llm-wiki/CLAUDE.md.tmp.90996.1777426423457",
     "System/Attachments/Pasted image 20260407201432.png",
     "System/Attachments/Pasted image 20260407200929.png",
     "System/Attachments/Pasted image 20260407200716.png",
