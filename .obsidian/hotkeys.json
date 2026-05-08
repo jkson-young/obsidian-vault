@@ -61,12 +61,33 @@
       "key": "1"
     }
   ],
-  "editor:toggle-bullet-list": [
+  "hotkeysplus-obsidian:toggle-bullet-number": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "3"
+    }
+  ],
+  "hotkeysplus-obsidian:toggle-block-quote": [],
+  "hotkeysplus-obsidian:toggle-embed": [],
+  "hotkeysplus-obsidian:better-toggle-todo": [],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-split": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
     }
   ]
 }
