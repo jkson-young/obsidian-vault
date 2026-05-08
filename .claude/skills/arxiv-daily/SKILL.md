@@ -40,8 +40,8 @@ allowed-tools: ["Bash", "Read", "Write"]
 
    必须使用`obsidian-cli` skill完成以下操作：
 
-   - 打开或创建今天的日记
-   - 在日记末尾追加以下内容：
+   - 打开或创建今天的日记（使用`obsidian daily`命令）
+   - 在日记末尾追加以下内容（使用`obsidian daily:append content=""`命令）：
 
    ```markdown
    ## 今日AI论文

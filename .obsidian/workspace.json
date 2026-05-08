@@ -66,57 +66,8 @@
               "icon": "lucide-file",
               "title": "Obsidian快捷键"
             }
-          },
-          {
-            "id": "29a4978a73307560",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Obsidian/Obsidian快捷键.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian快捷键"
-            }
-          },
-          {
-            "id": "254be86db0155578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-05-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-08"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +133,7 @@
       {
         "id": "abc6a9e391248046",
         "type": "tabs",
-        "dimension": 78.26086956521739,
+        "dimension": 80.15873015873017,
         "children": [
           {
             "id": "3dfb693e616706bd",
@@ -311,7 +262,7 @@
       {
         "id": "db3f7881ea1efff1",
         "type": "tabs",
-        "dimension": 21.73913043478261,
+        "dimension": 19.841269841269842,
         "children": [
           {
             "id": "393c4c370c0e1672",
@@ -333,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-05-08.md",
+                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +294,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-08 的反向链接列表"
+              "title": "🏠 Home 的反向链接列表"
             }
           }
         ],
@@ -372,12 +323,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "254be86db0155578",
+  "active": "b3ea4459616f7ae8",
   "lastOpenFiles": [
-    "Daily/2026-05-07.md",
-    "Daily/2026-05-08.md",
-    "Daily/2026-05-08.md.tmp.55916.1778232828298",
     "Study/Obsidian/Obsidian快捷键.md",
+    "Habits Tracker.md",
+    "🏠 Home.md",
+    "System/Bases/Calendar.base",
+    "Daily/2026-05-08.md",
+    "Daily/2026-05-07.md",
+    "Daily/2026-05-08.md.tmp.55916.1778232828298",
     "Study/Obsidian/Obsidian自动补全.md",
     "Study/Obsidian/Note Refactor.md",
     "Study/Obsidian/快速切换器.md",
@@ -401,9 +355,6 @@
     "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
     "llm-wiki/wiki/entities/Vin.md",
-    "llm-wiki/wiki/entities/Vannevar Bush.md",
-    "llm-wiki/wiki/entities/Greg Isenberg.md",
-    "System/Bases/Calendar.base",
     "未命名 1.base",
     "未命名.base",
     "System/Bases/On This Day.base",
