@@ -40,7 +40,7 @@
     ]
   },
   "permissionMode": "yolo",
-  "model": "kimi-k2.6",
+  "model": "MiniMax-M2.7",
   "thinkingBudget": "medium",
   "effortLevel": "high",
   "enableAutoTitleGeneration": true,
@@ -57,7 +57,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "ENABLE_TOOL_SEARCH=false\nANTHROPIC_BASE_URL=https://api.kimi.com/coding/\nANTHROPIC_API_KEY=sk-kimi-OqVKfqiWawuiemfEFsA3M3VrkFxOWBhNWxp8IBxj8YGmK56EFHxuy3lJTmz8pKiL\nANTHROPIC_MODEL=kimi-k2.6",
+  "environmentVariables": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic\nANTHROPIC_API_KEY=sk-api-Pyd6J4DetW9I9CXCh2y0PSFPm1DO_9DG5cURdlH8aO3ZYKXbUQqNMdtUkzGBxVW8TtqiBkkiGuKTKJxEJiSmb_pRhMJoY03-NlPSpHHl_kIoToEABhVy_ho\nANTHROPIC_MODEL=MiniMax-M2.7",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -73,7 +73,7 @@
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "opus",
   "lastCustomModel": "",
-  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.kimi.com/coding/|ANTHROPIC_MODEL=kimi-k2.6",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.minimaxi.com/anthropic|ANTHROPIC_MODEL=MiniMax-M2.7",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
