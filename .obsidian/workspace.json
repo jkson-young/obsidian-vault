@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Obsidian/Obsidian自动补全.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian自动补全"
+              "title": "Obsidian快捷键"
             }
           }
         ],
@@ -218,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Obsidian/Obsidian自动补全.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Obsidian自动补全 的关系图"
+              "title": "Obsidian快捷键 的关系图"
             }
           },
           {
@@ -317,12 +317,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Obsidian/Obsidian自动补全.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Obsidian自动补全 的出链列表"
+              "title": "Obsidian快捷键 的出链列表"
             }
           },
           {
@@ -331,7 +331,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Obsidian/Obsidian自动补全.md",
+                "file": "Study/Obsidian/Obsidian快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -341,7 +341,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian自动补全 的反向链接列表"
+              "title": "Obsidian快捷键 的反向链接列表"
             }
           }
         ],
@@ -372,9 +372,9 @@
   },
   "active": "254be86db0155578",
   "lastOpenFiles": [
+    "Study/Obsidian/Obsidian自动补全.md",
     "Study/Obsidian/Note Refactor.md",
     "Study/Obsidian/快速切换器.md",
-    "Study/Obsidian/Obsidian自动补全.md",
     "Study/Obsidian/Obsidian设置项.md",
     "Study/Obsidian/Obsidian快捷键.md",
     "Study/Obsidian/Obsidian Callout.md",
