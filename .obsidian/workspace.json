@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Obsidian/Obsidian快捷键.md",
+                "file": "Study/Obsidian/快速切换器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian快捷键"
+              "title": "快速切换器"
             }
           }
         ],
@@ -184,20 +184,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "393c4c370c0e1672",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "llm-wiki/wiki/entities/Obsidian.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Obsidian 的出链列表"
-            }
-          },
-          {
             "id": "3dfb693e616706bd",
             "type": "leaf",
             "state": {
@@ -232,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Study/Obsidian/Obsidian快捷键.md",
+                "file": "Study/Obsidian/快速切换器.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,11 +242,11 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Obsidian快捷键 的关系图"
+              "title": "快速切换器 的关系图"
             }
           },
           {
@@ -309,25 +295,6 @@
             }
           },
           {
-            "id": "dd1e47912521528b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "2026-04-22-how-to-design-custom-slash-commands 的反向链接列表"
-            }
-          },
-          {
             "id": "3396936b09d7b8b7",
             "type": "leaf",
             "state": {
@@ -338,7 +305,47 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "db3f7881ea1efff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "393c4c370c0e1672",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/Obsidian/快速切换器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "快速切换器 的出链列表"
+            }
+          },
+          {
+            "id": "dd1e47912521528b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/Obsidian/快速切换器.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "快速切换器 的反向链接列表"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -363,11 +370,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "254be86db0155578",
+  "active": "bc2cf73cace9b14e",
   "lastOpenFiles": [
+    "Study/Obsidian/Obsidian自动补全.md",
+    "Study/Obsidian/Obsidian快捷键.md",
     "Study/Obsidian/Obsidian Callout.md",
     "Study/Obsidian/命令面板.md",
-    "Study/Obsidian/Obsidian快捷键.md",
     "Study/Obsidian/快速切换器.md",
     "笔记.md",
     "Study/Obsidian/Obsidian设置项.md",
@@ -392,7 +400,6 @@
     "llm-wiki/wiki/entities/Andrej Karpathy.md",
     "llm-wiki/wiki/concepts/RAG.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
-    "Work/易乐途测试环境安装.md",
     "System/Bases/Calendar.base",
     "未命名 1.base",
     "未命名.base",
