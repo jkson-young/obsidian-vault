@@ -42,9 +42,33 @@
               "icon": "bookmark",
               "title": "Pkmer Market"
             }
+          },
+          {
+            "id": "7242a9aab39fa19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llm-wiki/raw/articles/karpathy wiki方法论.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "karpathy wiki方法论"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,6 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "llm-wiki/raw/articles/karpathy wiki方法论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "karpathy wiki方法论 的反向链接列表"
             }
           }
         ],
@@ -299,7 +324,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8a85e7ea8264b7d0",
+  "active": "7242a9aab39fa19b",
   "lastOpenFiles": [
     "Daily/2026-05-12.md",
     "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
