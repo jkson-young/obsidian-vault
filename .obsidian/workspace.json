@@ -42,19 +42,9 @@
               "icon": "bookmark",
               "title": "Pkmer Market"
             }
-          },
-          {
-            "id": "164010d9d6b3f1e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,6 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,7 +271,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "🏠 Home 的反向链接列表"
             }
           }
         ],
@@ -309,8 +300,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "164010d9d6b3f1e4",
+  "active": "8a85e7ea8264b7d0",
   "lastOpenFiles": [
+    "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
+    "Study/Obsidian/Obsidian快捷键.md",
+    "Study/Obsidian/快速切换器.md",
+    "Study/Obsidian/命令面板.md",
+    "删除当前文件.md",
     "🏠 Home.md",
     "System/Templates/Daily-TEMPLATE.md",
     "Habits Tracker.md",
@@ -319,7 +315,6 @@
     "工具清单：按层拆解.md",
     "都2026了，你还不会用Obsidian？.md",
     "Daily/2026-05-12.md",
-    "Study/Obsidian/Obsidian快捷键.md",
     "System/Templates/模板-每日日记.md",
     "System/Templates/TEMPLATE-Daily.md",
     "System/Templates/日记模板.md",
@@ -329,18 +324,14 @@
     "Daily/2026-05-08.md.tmp.55916.1778232828298",
     "Study/Obsidian/Obsidian自动补全.md",
     "Study/Obsidian/Note Refactor.md",
-    "Study/Obsidian/快速切换器.md",
     "Study/Obsidian/Obsidian设置项.md",
     "Study/Obsidian/Obsidian Callout.md",
-    "Study/Obsidian/命令面板.md",
     "未命名 1.md",
     "笔记.md",
     "未命名.md",
     "Daily/2026-05-07.md.tmp.94104.1778159065916",
     "llm-wiki/outputs/queries/2026-04-22-how-to-design-custom-slash-commands.md",
-    "llm-wiki/wiki/entities/Obsidian.md",
     "llm-wiki/raw/articles/上头Obsidian手把手教你用AI做好知识管理 (Shiki实验室) .docx",
-    "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "未命名 1.base",
     "未命名.base",
     "System/Bases/On This Day.base",
