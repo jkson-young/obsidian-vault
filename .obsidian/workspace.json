@@ -261,7 +261,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠 Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +270,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "🏠 Home 的反向链接列表"
+              "title": "反向链接"
             }
           }
         ],
@@ -302,6 +301,7 @@
   },
   "active": "8a85e7ea8264b7d0",
   "lastOpenFiles": [
+    "Daily/2026-05-12.md",
     "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
     "Study/Obsidian/Obsidian快捷键.md",
     "Study/Obsidian/快速切换器.md",
@@ -314,7 +314,6 @@
     "Study/金字塔原理.md",
     "工具清单：按层拆解.md",
     "都2026了，你还不会用Obsidian？.md",
-    "Daily/2026-05-12.md",
     "System/Templates/模板-每日日记.md",
     "System/Templates/TEMPLATE-Daily.md",
     "System/Templates/日记模板.md",
