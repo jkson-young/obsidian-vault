@@ -24,7 +24,11 @@ cssclasses:
 >[!tip] Free Write
 
 
-
+## 📊 今日数据
+- 睡眠：
+- 运动：
+- 阅读：
+- 屏幕时间：
 
 <%*
 let birth = "1998-11-23";
