@@ -243,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "db3f7881ea1efff1",
@@ -307,7 +307,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6d5fe3dc9aac6bc2",
+  "active": "1683c5f0e9b46a3e",
   "lastOpenFiles": [
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
     "工具清单：按层拆解.md",
