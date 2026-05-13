@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "704294a796e62412",
@@ -194,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224417,
+                  "scale": 0.7132754626224416,
                   "close": true
                 }
               },
@@ -258,7 +259,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "db3f7881ea1efff1",
@@ -303,7 +304,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 533.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,12 +326,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bc2cf73cace9b14e",
+  "active": "6d5fe3dc9aac6bc2",
   "lastOpenFiles": [
-    "SKILL.md",
-    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
     "工具清单：按层拆解.md",
+    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
     "System/Templates/模板-每日日记.md",
+    "SKILL.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
     "llm-wiki/wiki/concepts/Claude Code.md",
     "llm-wiki/wiki/concepts/LLM Wiki.md",
