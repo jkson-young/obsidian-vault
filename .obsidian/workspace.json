@@ -47,10 +47,24 @@
             "id": "6d5fe3dc9aac6bc2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-05-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-13"
             }
           }
         ],
@@ -157,6 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Daily/2026-05-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "2026-05-13 的关系图"
             }
           },
           {
@@ -256,11 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2026-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2026-05-13 的出链列表"
             }
           },
           {
@@ -269,6 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2026-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2026-05-13 的反向链接列表"
             }
           }
         ],
@@ -307,7 +324,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1683c5f0e9b46a3e",
+  "active": "6d5fe3dc9aac6bc2",
   "lastOpenFiles": [
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
     "工具清单：按层拆解.md",
