@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "llm-wiki/wiki/concepts/第二大脑.md",
+                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "第二大脑"
+              "title": "LLM作为思考伙伴"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "llm-wiki/wiki/concepts/第二大脑.md",
+                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "第二大脑 的关系图"
+              "title": "LLM作为思考伙伴 的关系图"
             }
           },
           {
@@ -271,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "llm-wiki/wiki/concepts/第二大脑.md",
+                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第二大脑 的出链列表"
+              "title": "LLM作为思考伙伴 的出链列表"
             }
           },
           {
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "llm-wiki/wiki/concepts/第二大脑.md",
+                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第二大脑 的反向链接列表"
+              "title": "LLM作为思考伙伴 的反向链接列表"
             }
           }
         ],
@@ -326,6 +326,7 @@
   },
   "active": "6d5fe3dc9aac6bc2",
   "lastOpenFiles": [
+    "System/Templates/模板-每日日记.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
     "llm-wiki/wiki/concepts/Claude Code.md",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
@@ -345,7 +346,6 @@
     "Study/金字塔原理.md",
     "工具清单：按层拆解.md",
     "都2026了，你还不会用Obsidian？.md",
-    "System/Templates/模板-每日日记.md",
     "System/Templates/TEMPLATE-Daily.md",
     "System/Templates/日记模板.md",
     "System/Bases/Calendar.base",
