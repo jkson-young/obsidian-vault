@@ -47,24 +47,10 @@
             "id": "6d5fe3dc9aac6bc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LLM作为思考伙伴"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -125,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -172,7 +157,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "LLM作为思考伙伴 的关系图"
+              "title": "关系图谱"
             }
           },
           {
@@ -259,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "db3f7881ea1efff1",
@@ -272,12 +256,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "LLM作为思考伙伴 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -286,7 +269,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +278,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "LLM作为思考伙伴 的反向链接列表"
+              "title": "反向链接"
             }
           }
         ],
@@ -304,8 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5,
-    "collapsed": true
+    "width": 533.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,12 +309,12 @@
   },
   "active": "6d5fe3dc9aac6bc2",
   "lastOpenFiles": [
-    "工具清单：按层拆解.md",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
-    "System/Templates/模板-每日日记.md",
-    "SKILL.md",
+    "工具清单：按层拆解.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
     "llm-wiki/wiki/concepts/Claude Code.md",
+    "System/Templates/模板-每日日记.md",
+    "SKILL.md",
     "llm-wiki/wiki/concepts/LLM Wiki.md",
     "Daily/2026-05-13.md",
     "Habits Tracker.md",
