@@ -258,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "db3f7881ea1efff1",
@@ -326,14 +326,14 @@
   },
   "active": "6d5fe3dc9aac6bc2",
   "lastOpenFiles": [
+    "SKILL.md",
+    "Daily/2026-05-13.md",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
     "工具清单：按层拆解.md",
     "llm-wiki/wiki/concepts/第二大脑.md",
     "llm-wiki/wiki/concepts/Claude Code.md",
     "System/Templates/模板-每日日记.md",
-    "SKILL.md",
     "llm-wiki/wiki/concepts/LLM Wiki.md",
-    "Daily/2026-05-13.md",
     "Habits Tracker.md",
     "🏠 Home.md",
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
