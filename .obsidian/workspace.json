@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-05-13.md",
+                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-13"
+              "title": "途邦SCRM-易乐途门店设备信息上报美团测试"
             }
           }
         ],
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2026-05-13.md",
+                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-05-13 的关系图"
+              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的关系图"
             }
           },
           {
@@ -271,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-05-13.md",
+                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-13 的出链列表"
+              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的出链列表"
             }
           },
           {
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-05-13.md",
+                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-13 的反向链接列表"
+              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的反向链接列表"
             }
           }
         ],
@@ -326,17 +326,22 @@
   },
   "active": "6d5fe3dc9aac6bc2",
   "lastOpenFiles": [
-    "SKILL.md",
-    "Daily/2026-05-13.md",
+    "Work/活动助手测试环境安装.md",
+    "llm-wiki/wiki/concepts/RAG.md",
+    "llm-wiki/wiki/concepts/Obsidian.md",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
-    "工具清单：按层拆解.md",
-    "llm-wiki/wiki/concepts/第二大脑.md",
-    "llm-wiki/wiki/concepts/Claude Code.md",
-    "System/Templates/模板-每日日记.md",
     "llm-wiki/wiki/concepts/LLM Wiki.md",
+    "llm-wiki/wiki/concepts/Claude Code.md",
+    "llm-wiki/wiki/concepts/第二大脑.md",
+    "llm-wiki/raw/articles/karpathy wiki方法论.md",
+    "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
+    "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
+    "Daily/2026-05-13.md",
+    "SKILL.md",
+    "工具清单：按层拆解.md",
+    "System/Templates/模板-每日日记.md",
     "Habits Tracker.md",
     "🏠 Home.md",
-    "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "Daily/2026-05-12.md",
     "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
     "Study/Obsidian/Obsidian快捷键.md",
@@ -347,13 +352,8 @@
     "Study/Note-Taking.md",
     "Study/金字塔原理.md",
     "都2026了，你还不会用Obsidian？.md",
-    "System/Templates/TEMPLATE-Daily.md",
-    "System/Templates/日记模板.md",
     "System/Bases/Calendar.base",
-    "Daily/2026-05-08.md",
-    "Daily/2026-05-07.md",
     "Daily/2026-05-08.md.tmp.55916.1778232828298",
-    "Study/Obsidian/Obsidian自动补全.md",
     "Daily/2026-05-07.md.tmp.94104.1778159065916",
     "llm-wiki/raw/articles/上头Obsidian手把手教你用AI做好知识管理 (Shiki实验室) .docx",
     "未命名 1.base",
