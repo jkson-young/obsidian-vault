@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-05-13.md",
+                "file": "llm-wiki/wiki/concepts/第二大脑.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-13"
+              "title": "第二大脑"
             }
           }
         ],
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 379.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -171,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Habits Tracker.md",
+                "file": "llm-wiki/wiki/concepts/第二大脑.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,12 +194,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.7132754626224417,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Habits Tracker 的关系图"
+              "title": "第二大脑 的关系图"
             }
           },
           {
@@ -271,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-05-13.md",
+                "file": "llm-wiki/wiki/concepts/第二大脑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-05-13 的出链列表"
+              "title": "第二大脑 的出链列表"
             }
           },
           {
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-05-13.md",
+                "file": "llm-wiki/wiki/concepts/第二大脑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-05-13 的反向链接列表"
+              "title": "第二大脑 的反向链接列表"
             }
           }
         ],
@@ -303,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 783.5
+    "width": 594.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,10 +324,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dd1e47912521528b",
+  "active": "1683c5f0e9b46a3e",
   "lastOpenFiles": [
-    "Habits Tracker.md",
     "Daily/2026-05-13.md",
+    "Habits Tracker.md",
     "🏠 Home.md",
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "Daily/2026-05-12.md",
