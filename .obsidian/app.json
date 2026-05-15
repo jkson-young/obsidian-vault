@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "System/Attachments",
+  "attachmentFolderPath": "x/Attachments",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
@@ -12,5 +12,6 @@
   "promptDelete": false,
   "readableLineLength": true,
   "showLineNumber": false,
-  "newFileLocation": "folder"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+"
 }
