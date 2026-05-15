@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-04-14.md",
+                "file": "Calendar/Journal/Daily/2026-04-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-14"
+              "title": "2026-04-01"
             }
           }
         ],
@@ -161,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-04-14.md",
+                "file": "Calendar/Journal/Daily/2026-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-14 的出链列表"
+              "title": "2026-04-01 的出链列表"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-04-14.md",
+                "file": "Calendar/Journal/Daily/2026-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-14 的反向链接列表"
+              "title": "2026-04-01 的反向链接列表"
             }
           },
           {
@@ -223,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-04-14.md",
+                "file": "Calendar/Journal/Daily/2026-04-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-04-14 的关系图"
+              "title": "2026-04-01 的关系图"
             }
           },
           {
@@ -260,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-04-14.md",
+                "file": "Calendar/Journal/Daily/2026-04-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-14 的大纲"
+              "title": "2026-04-01 的大纲"
             }
           },
           {
@@ -327,12 +327,22 @@
   },
   "active": "8077ba72ae96c10e",
   "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-04-04.md",
+    "Calendar/Journal/Daily/2026-04-02.md",
+    "Calendar/Journal/Daily/2026-04-03.md",
+    "Calendar/Journal/Daily/2026-04-05.md",
+    "Calendar/Journal/Daily/2026-04-06.md",
+    "Calendar/Journal/Daily/2026-04-08.md",
+    "Calendar/Journal/Daily/2026-04-07.md",
+    "Calendar/Journal/Daily/2026-04-09.md",
+    "Calendar/Journal/Daily/2026-04-24.md",
+    "Calendar/Journal/Daily/2026-04-10.md",
+    "Calendar/Journal/Daily/2026-04-13.md",
+    "Calendar/Journal/Daily/2026-04-14.md",
     "Calendar/Journal/Daily/2026-04-15.md",
     "Atlas/都2026了，你还不会用Obsidian？.md",
     "Calendar/Journal/Daily/2026-03-27.md",
     "Calendar/Journal/Daily/2026-03-26.md",
-    "Calendar/Journal/Daily/2026-04-14.md",
-    "Calendar/Journal/Daily/2026-04-24.md",
     "Calendar/Journal/Daily/2026-04-16.md",
     "Calendar/Journal/Daily/2026-04-17.md",
     "Calendar/Journal/Daily/2026-04-20.md",
@@ -353,16 +363,6 @@
     "Calendar/Journal/Daily/2026-04-15.md.tmp.13096.1778837593298",
     "Calendar/Journal/Daily/2026-04-14.md.tmp.13096.1778837593278",
     "Home.md",
-    "Calendar/Journal/Daily/2026-03-28.md",
-    "x/Templates/Template,Properties,Daily Note.md",
-    "Calendar/Journal/Daily/2026-03-29.md",
-    "Calendar/Journal/Daily/2026-04-05.md",
-    "x/Templates/模板-每日日记.md",
-    "x/Templates/Daily-TEMPLATE.md",
-    "未命名.md",
-    "x/Habits Tracker.md",
-    "x/Templates/TEMPLATE-Daily.md",
-    "Calendar/Journal/Daily/2026-05-12.md",
     "System/Templates/Daily.canvas",
     "x/Attachments/Pasted image 20260407201432.png",
     "x/Attachments/Pasted image 20260407200929.png",
