@@ -100,5 +100,15 @@
       "key": "D"
     }
   ],
-  "switcher:open": []
+  "switcher:open": [],
+  "workspace:toggle-stacked-tabs": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:save-file": [],
+  "obsidian-excalidraw-plugin:save": []
 }

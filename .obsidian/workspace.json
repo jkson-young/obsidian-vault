@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠 Home.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,17 +30,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "🏠 Home"
-            }
-          },
-          {
-            "id": "8a85e7ea8264b7d0",
-            "type": "leaf",
-            "state": {
-              "type": "pkmer-downloader",
-              "state": {},
-              "icon": "bookmark",
-              "title": "Pkmer Market"
+              "title": "Home"
             }
           },
           {
@@ -49,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/转正答辩PPT.md",
+                "file": "Habits Tracker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "转正答辩PPT"
+              "title": "Habits Tracker"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -285,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/转正答辩PPT.md",
+                "file": "Habits Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +285,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "转正答辩PPT 的反向链接列表"
+              "title": "Habits Tracker 的反向链接列表"
             }
           }
         ],
@@ -324,8 +314,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d5695461a7d38ce2",
+  "active": "649b70a8b7078ab8",
   "lastOpenFiles": [
+    "Home.md",
+    "Calendar/Daily/2026-03-26.md",
+    "Atlas/Zettelkasten.md",
+    "Atlas/都2026了，你还不会用Obsidian？.md",
+    "Atlas/转正答辩PPT.md",
+    "Clippings/Prompt Engineering Full Course.md",
     "Efforts/途邦scrm/途邦SCRM-易乐途门店设备信息上报美团测试.md",
     "Efforts/活动助手/活动助手测试环境安装.md",
     "Efforts/途邦scrm",
@@ -334,7 +330,7 @@
     "llm-wiki/log/20260427.md",
     "llm-wiki/log/20260423.md",
     "llm-wiki/log/20260422.md",
-    "工具清单：按层拆解.md",
+    "Atlas/工具清单：按层拆解.md",
     "x/Bases/On This Day.base",
     "SKILL.md",
     "x/Bases/Calendar.base",
@@ -351,14 +347,9 @@
     "llm-wiki/raw/articles/karpathy wiki方法论.md",
     "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
-    "Daily/2026-05-13.md",
+    "Calendar/Daily/2026-05-13.md",
     "x/Templates/模板-每日日记.md",
     "Habits Tracker.md",
-    "🏠 Home.md",
-    "Daily/2026-05-12.md",
-    "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
-    "Atlas/Obsidian/Obsidian快捷键.md",
-    "Atlas/Obsidian/快速切换器.md",
     "Daily/2026-05-08.md.tmp.55916.1778232828298",
     "Daily/2026-05-07.md.tmp.94104.1778159065916",
     "System/Templates/Daily.canvas",
