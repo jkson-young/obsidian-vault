@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,31 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "c1c488020aae68c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-05-13"
             }
           }
         ],
@@ -104,7 +80,7 @@
       {
         "id": "33986a37910dad21",
         "type": "tabs",
-        "dimension": 70.2191235059761,
+        "dimension": 70.4183266932271,
         "children": [
           {
             "id": "b220e80a42e9584f",
@@ -135,15 +111,7 @@
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8e65dd5ce8e931cc",
-        "type": "tabs",
-        "dimension": 29.780876494023907,
-        "children": [
+          },
           {
             "id": "b5ca42d40dc7fe92",
             "type": "leaf",
@@ -153,7 +121,15 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8e65dd5ce8e931cc",
+        "type": "tabs",
+        "dimension": 29.58167330677291,
+        "children": [
           {
             "id": "7c467e5fc5267277",
             "type": "leaf",
@@ -164,12 +140,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 332.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -186,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Home 的出链列表"
+              "title": "2026-05-13 的出链列表"
             }
           },
           {
@@ -200,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Home 的反向链接列表"
+              "title": "2026-05-13 的反向链接列表"
             }
           },
           {
@@ -248,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Home 的关系图"
+              "title": "2026-05-13 的关系图"
             }
           },
           {
@@ -285,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "2026-05-13 的大纲"
             }
           },
           {
@@ -329,7 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 699.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,44 +325,44 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "1683c5f0e9b46a3e",
+  "active": "8077ba72ae96c10e",
   "lastOpenFiles": [
-    "x/Templates/Template,Properties,Daily Note.md",
+    "Calendar/Journal/Daily/2026-04-15.md.tmp.13096.1778837593298",
+    "Calendar/Journal/Daily/2026-04-14.md.tmp.13096.1778837593278",
+    "Calendar/Journal/Daily/2026-04-13.md.tmp.13096.1778837593251",
+    "Calendar/Journal/Daily/2026-04-10.md.tmp.13096.1778837593216",
+    "Calendar/Journal/Daily/2026-04-09.md.tmp.13096.1778837593190",
+    "Calendar/Journal/Daily/2026-04-08.md.tmp.13096.1778837593150",
+    "Home.md",
+    "Calendar/Journal/Daily/2026-05-13.md",
+    "Calendar/Journal/Daily/2026-04-06.md.tmp.13096.1778837558100",
+    "Calendar/Journal/Daily/2026-04-05.md.tmp.13096.1778837558077",
+    "Calendar/Journal/Daily/2026-04-03.md.tmp.13096.1778837558024",
+    "Calendar/Journal/Daily/2026-04-02.md.tmp.13096.1778837557991",
+    "Calendar/Journal/Daily/2026-03-30.md.tmp.13096.1778837517908",
+    "Calendar/Journal/Daily/2026-05-15.md",
     "Calendar/Journal/Daily/2026-03-28.md",
+    "Calendar/Journal/Daily/2026-03-27.md",
     "Calendar/Journal/Daily/2026-03-26.md",
+    "Calendar/Journal/Daily/2026-04-22.md",
+    "Calendar/Journal/Daily/2026-04-24.md",
+    "Calendar/Journal/Daily/2026-04-29.md",
+    "x/Templates/Template,Properties,Daily Note.md",
     "Calendar/Journal/Daily/2026-03-29.md",
     "Calendar/Journal/Daily/2026-04-05.md",
     "x/Templates/模板-每日日记.md",
-    "Calendar/Journal/Daily/2026-05-15.md",
     "x/Templates/Daily-TEMPLATE.md",
     "未命名.md",
-    "Calendar/Journal/Daily/2026-05-13.md",
-    "Home.md",
     "x/Habits Tracker.md",
-    "x/Bases/Calendar.base",
-    "+/test.base",
-    "Calendar/Journal/Daily/2026-04-29.md",
     "x/Templates/TEMPLATE-Daily.md",
     "Calendar/Journal/Daily/2026-04-20.md",
     "Calendar/Journal/Daily/2026-05-12.md",
     "Calendar/Journal/Daily/2026-05-08.md",
     "Calendar/Journal/Daily/2026-05-07.md",
-    "Calendar/Journal/Daily/2026-04-24.md",
     "Calendar/Journal/Daily/2026-03-30.md",
     "Calendar/Journal/Daily/2026-03-31.md",
-    "Calendar/Journal/Daily/2026-03-27.md",
-    "x/Bases/On This Day.base",
     "+/fddasfsdf.md",
-    "Calendar/Journal",
     "+/2026-05-15 1525.md",
-    "2026-W18.md",
-    "Atlas/Zettelkasten.md",
-    "Efforts/途邦scrm",
-    "Efforts/活动助手",
-    "Efforts",
-    "Calendar",
-    "Atlas",
-    "+",
     "System/Templates/Daily.canvas",
     "x/Attachments/Pasted image 20260407201432.png",
     "x/Attachments/Pasted image 20260407200929.png",
