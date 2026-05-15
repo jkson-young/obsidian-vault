@@ -100,7 +100,14 @@
       "key": "D"
     }
   ],
-  "switcher:open": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
   "workspace:toggle-stacked-tabs": [
     {
       "modifiers": [
