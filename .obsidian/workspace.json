@@ -71,17 +71,28 @@
             "id": "c1c488020aae68c3",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "x/Bases/Calendar.base",
-                "viewName": "Calendar"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,18 +104,16 @@
       {
         "id": "33986a37910dad21",
         "type": "tabs",
+        "dimension": 36.95198329853862,
         "children": [
           {
-            "id": "d5695461a7d38ce2",
+            "id": "7c467e5fc5267277",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -123,6 +132,27 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8e65dd5ce8e931cc",
+        "type": "tabs",
+        "dimension": 63.04801670146137,
+        "children": [
+          {
+            "id": "d5695461a7d38ce2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           },
           {
             "id": "b5ca42d40dc7fe92",
@@ -138,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 343.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -216,28 +246,18 @@
             }
           },
           {
-            "id": "7c467e5fc5267277",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "8e99a5c0a53c4d8b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "llm-wiki/wiki/entities/Obsidian.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian 的大纲"
+              "title": "Home 的大纲"
             }
           },
           {
@@ -271,7 +291,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "db3f7881ea1efff1",
@@ -298,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x/Bases/Calendar.base",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +328,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Calendar 的反向链接列表"
+              "title": "Home 的反向链接列表"
             }
           }
         ],
@@ -316,7 +336,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 533.5
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,10 +357,11 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "c1c488020aae68c3",
+  "active": "4130b6d68759ab89",
   "lastOpenFiles": [
-    "+/test.base",
+    "x/Habits Tracker.md",
     "x/Bases/Calendar.base",
+    "+/test.base",
     "Home.md",
     "Calendar/Journal/Daily/2026-05-13.md",
     "Calendar/Journal/Daily/2026-04-29.md",
@@ -364,7 +385,6 @@
     "Calendar/Journal",
     "+/2026-05-15 1525.md",
     "2026-W18.md",
-    "Habits Tracker.md",
     "Atlas/Zettelkasten.md",
     "Atlas/都2026了，你还不会用Obsidian？.md",
     "Atlas/转正答辩PPT.md",
