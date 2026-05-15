@@ -1,23 +1,41 @@
 {
   "choices": [
     {
-      "id": "5935e132-859f-41d1-9fd6-3aaaebb8ac0b",
+      "id": "2a83a653-a8b0-4ac9-8c95-32cc23084bb2",
       "name": "log",
-      "type": "Template",
+      "type": "Capture",
       "command": false,
-      "templatePath": "",
-      "fileNameFormat": {
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "captureToCanvasNodeId": "",
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
         "enabled": false,
         "format": ""
       },
-      "folder": {
+      "insertAfter": {
         "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
       },
-      "appendLink": false,
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
       "openFile": false,
       "fileOpening": {
         "location": "tab",
@@ -25,8 +43,9 @@
         "mode": "default",
         "focus": true
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "templater": {
+        "afterCapture": "none"
+      }
     }
   ],
   "inputPrompt": "single-line",
