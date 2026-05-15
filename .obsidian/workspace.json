@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -348,10 +348,11 @@
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:管理工作区布局": false,
-      "periodic-notes:Open today's daily note": false
+      "periodic-notes:Open today's daily note": false,
+      "cmdr:QuickAdd: Run QuickAdd": false
     }
   },
-  "active": "4130b6d68759ab89",
+  "active": "5d81db7f2938dbc4",
   "lastOpenFiles": [
     "x/Templates/Template,Properties,Daily Note.md",
     "Calendar/Journal/Daily/2026-05-15.md",
