@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x/Templates/模板-每日日记.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "模板-每日日记"
+              "title": "Home"
             }
           },
           {
@@ -104,18 +104,8 @@
       {
         "id": "33986a37910dad21",
         "type": "tabs",
-        "dimension": 29.681274900398407,
+        "dimension": 70.2191235059761,
         "children": [
-          {
-            "id": "7c467e5fc5267277",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
           {
             "id": "b220e80a42e9584f",
             "type": "leaf",
@@ -132,14 +122,7 @@
               "icon": "lucide-search",
               "title": "搜索"
             }
-          }
-        ]
-      },
-      {
-        "id": "8e65dd5ce8e931cc",
-        "type": "tabs",
-        "dimension": 35.2589641434263,
-        "children": [
+          },
           {
             "id": "d5695461a7d38ce2",
             "type": "leaf",
@@ -152,7 +135,15 @@
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8e65dd5ce8e931cc",
+        "type": "tabs",
+        "dimension": 29.780876494023907,
+        "children": [
           {
             "id": "b5ca42d40dc7fe92",
             "type": "leaf",
@@ -162,52 +153,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          }
-        ]
-      },
-      {
-        "id": "8ba1ec8e86a91cad",
-        "type": "tabs",
-        "dimension": 35.0597609561753,
-        "children": [
+          },
           {
-            "id": "bc2cf73cace9b14e",
+            "id": "7c467e5fc5267277",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "x/Templates/模板-每日日记.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792582,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "模板-每日日记 的关系图"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "x/Templates/模板-每日日记.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "模板-每日日记 的出链列表"
+              "title": "Home 的出链列表"
             }
           },
           {
@@ -242,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x/Templates/模板-每日日记.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "模板-每日日记 的反向链接列表"
+              "title": "Home 的反向链接列表"
             }
           },
           {
@@ -285,18 +243,55 @@
             }
           },
           {
+            "id": "bc2cf73cace9b14e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792582,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Home 的关系图"
+            }
+          },
+          {
             "id": "8e99a5c0a53c4d8b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "x/Templates/模板-每日日记.md",
+                "file": "Home.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "模板-每日日记 的大纲"
+              "title": "Home 的大纲"
             }
           },
           {
@@ -330,12 +325,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 699.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,9 +350,13 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "8077ba72ae96c10e",
+  "active": "1683c5f0e9b46a3e",
   "lastOpenFiles": [
     "x/Templates/Template,Properties,Daily Note.md",
+    "Calendar/Journal/Daily/2026-03-28.md",
+    "Calendar/Journal/Daily/2026-03-26.md",
+    "Calendar/Journal/Daily/2026-03-29.md",
+    "Calendar/Journal/Daily/2026-04-05.md",
     "x/Templates/模板-每日日记.md",
     "Calendar/Journal/Daily/2026-05-15.md",
     "x/Templates/Daily-TEMPLATE.md",
@@ -376,18 +374,14 @@
     "Calendar/Journal/Daily/2026-05-07.md",
     "Calendar/Journal/Daily/2026-04-24.md",
     "Calendar/Journal/Daily/2026-03-30.md",
-    "Calendar/Journal/Daily/2026-03-29.md",
     "Calendar/Journal/Daily/2026-03-31.md",
     "Calendar/Journal/Daily/2026-03-27.md",
-    "Calendar/Journal/Daily/2026-03-28.md",
-    "Calendar/Journal/Daily/2026-03-26.md",
     "x/Bases/On This Day.base",
     "+/fddasfsdf.md",
     "Calendar/Journal",
     "+/2026-05-15 1525.md",
     "2026-W18.md",
     "Atlas/Zettelkasten.md",
-    "Atlas/都2026了，你还不会用Obsidian？.md",
     "Efforts/途邦scrm",
     "Efforts/活动助手",
     "Efforts",
