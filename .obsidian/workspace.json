@@ -56,7 +56,7 @@
       {
         "id": "33986a37910dad21",
         "type": "tabs",
-        "dimension": 70.4183266932271,
+        "dimension": 70.41832669322709,
         "children": [
           {
             "id": "b220e80a42e9584f",
@@ -104,7 +104,7 @@
       {
         "id": "8e65dd5ce8e931cc",
         "type": "tabs",
-        "dimension": 29.58167330677291,
+        "dimension": 29.581673306772906,
         "children": [
           {
             "id": "7c467e5fc5267277",
@@ -129,7 +129,6 @@
       {
         "id": "abc6a9e391248046",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "393c4c370c0e1672",
@@ -284,6 +283,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "graph:查看关系图谱": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
