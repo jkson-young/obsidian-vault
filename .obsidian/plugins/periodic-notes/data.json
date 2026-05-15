@@ -10,8 +10,8 @@
         "enabled": true,
         "openAtStartup": false,
         "format": "",
-        "templatePath": "",
-        "folder": ""
+        "templatePath": "x/Templates/模板-每日日记.md",
+        "folder": "Calendar/Journal/Daily"
       },
       "week": {
         "enabled": false
