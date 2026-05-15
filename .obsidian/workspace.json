@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x/Templates/模板-每日日记.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,11 +64,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "模板-每日日记"
+              "title": "2026-05-13"
+            }
+          },
+          {
+            "id": "c1c488020aae68c3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "x/Bases/Calendar.base",
+                "viewName": "Calendar"
+              },
+              "icon": "lucide-table",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -285,7 +298,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x/Templates/模板-每日日记.md",
+                "file": "x/Bases/Calendar.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +308,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "模板-每日日记 的反向链接列表"
+              "title": "Calendar 的反向链接列表"
             }
           }
         ],
@@ -324,14 +337,17 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "8077ba72ae96c10e",
+  "active": "c1c488020aae68c3",
   "lastOpenFiles": [
-    "x/Templates/Daily-TEMPLATE.md",
-    "x/Templates/TEMPLATE-Daily.md",
-    "x/Templates/模板-每日日记.md",
-    "Calendar/Journal/Daily/2026-04-20.md",
+    "+/test.base",
+    "x/Bases/Calendar.base",
+    "Home.md",
     "Calendar/Journal/Daily/2026-05-13.md",
     "Calendar/Journal/Daily/2026-04-29.md",
+    "x/Templates/模板-每日日记.md",
+    "x/Templates/Daily-TEMPLATE.md",
+    "x/Templates/TEMPLATE-Daily.md",
+    "Calendar/Journal/Daily/2026-04-20.md",
     "Calendar/Journal/Daily/2026-05-12.md",
     "Calendar/Journal/Daily/2026-05-08.md",
     "Calendar/Journal/Daily/2026-05-07.md",
@@ -343,11 +359,8 @@
     "Calendar/Journal/Daily/2026-03-27.md",
     "Calendar/Journal/Daily/2026-03-28.md",
     "Calendar/Journal/Daily/2026-03-26.md",
-    "x/Bases/Calendar.base",
     "x/Bases/On This Day.base",
-    "test.base",
     "+/fddasfsdf.md",
-    "Home.md",
     "Calendar/Journal",
     "+/2026-05-15 1525.md",
     "2026-W18.md",
@@ -355,7 +368,6 @@
     "Atlas/Zettelkasten.md",
     "Atlas/都2026了，你还不会用Obsidian？.md",
     "Atlas/转正答辩PPT.md",
-    "Clippings/Prompt Engineering Full Course.md",
     "Efforts/途邦scrm",
     "Efforts/活动助手",
     "Efforts",
