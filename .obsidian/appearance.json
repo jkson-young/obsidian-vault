@@ -3,8 +3,9 @@
     "daily-card",
     "Daily Note Themes"
   ],
-  "cssTheme": "LYT Mode",
-  "theme": "obsidian",
+  "cssTheme": "Prism",
+  "theme": "moonstone",
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "accentColor": ""
 }

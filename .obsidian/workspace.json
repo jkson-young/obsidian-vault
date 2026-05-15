@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
       {
         "id": "33986a37910dad21",
         "type": "tabs",
-        "dimension": 36.95198329853862,
+        "dimension": 29.880478087649404,
         "children": [
           {
             "id": "7c467e5fc5267277",
@@ -133,13 +133,12 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8e65dd5ce8e931cc",
         "type": "tabs",
-        "dimension": 63.04801670146137,
+        "dimension": 70.1195219123506,
         "children": [
           {
             "id": "d5695461a7d38ce2",
@@ -168,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 311.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -251,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "2026-05-13 的大纲"
             }
           },
           {
@@ -318,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/Journal/Daily/2026-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +327,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Home 的反向链接列表"
+              "title": "2026-05-13 的反向链接列表"
             }
           }
         ],
@@ -357,12 +356,12 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "4130b6d68759ab89",
+  "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
+    "Home.md",
     "x/Habits Tracker.md",
     "x/Bases/Calendar.base",
     "+/test.base",
-    "Home.md",
     "Calendar/Journal/Daily/2026-05-13.md",
     "Calendar/Journal/Daily/2026-04-29.md",
     "x/Templates/模板-每日日记.md",
