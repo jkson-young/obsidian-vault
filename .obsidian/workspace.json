@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "6d5fe3dc9aac6bc2",
+            "id": "649b70a8b7078ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+                "file": "Atlas/转正答辩PPT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "途邦SCRM-易乐途门店设备信息上报美团测试"
+              "title": "转正答辩PPT"
             }
           }
         ],
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+                "file": "Atlas/转正答辩PPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的反向链接列表"
+              "title": "转正答辩PPT 的反向链接列表"
             }
           }
         ],
@@ -326,11 +326,22 @@
   },
   "active": "d5695461a7d38ce2",
   "lastOpenFiles": [
+    "Efforts/途邦scrm/途邦SCRM-易乐途门店设备信息上报美团测试.md",
+    "Efforts/活动助手/活动助手测试环境安装.md",
+    "Efforts/途邦scrm",
+    "llm-wiki/log/20260429.md",
+    "Efforts/活动助手",
+    "llm-wiki/log/20260427.md",
+    "llm-wiki/log/20260423.md",
+    "llm-wiki/log/20260422.md",
+    "工具清单：按层拆解.md",
+    "x/Bases/On This Day.base",
+    "SKILL.md",
+    "x/Bases/Calendar.base",
     "Efforts",
     "Calendar",
     "Atlas",
     "+",
-    "Work/活动助手测试环境安装.md",
     "llm-wiki/wiki/concepts/RAG.md",
     "llm-wiki/wiki/concepts/Obsidian.md",
     "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
@@ -341,37 +352,25 @@
     "llm-wiki/wiki/summaries/karpathy-wiki-methodology.md",
     "llm-wiki/wiki/summaries/how-i-use-obsidian-claude-code.md",
     "Daily/2026-05-13.md",
-    "SKILL.md",
-    "工具清单：按层拆解.md",
-    "System/Templates/模板-每日日记.md",
+    "x/Templates/模板-每日日记.md",
     "Habits Tracker.md",
     "🏠 Home.md",
     "Daily/2026-05-12.md",
     "llm-wiki/audit/20260422-193543-dc29-slashslash.md",
-    "Study/Obsidian/Obsidian快捷键.md",
-    "Study/Obsidian/快速切换器.md",
-    "Study/Obsidian/命令面板.md",
-    "删除当前文件.md",
-    "System/Templates/Daily-TEMPLATE.md",
-    "Study/Note-Taking.md",
-    "Study/金字塔原理.md",
-    "System/Bases/Calendar.base",
+    "Atlas/Obsidian/Obsidian快捷键.md",
+    "Atlas/Obsidian/快速切换器.md",
     "Daily/2026-05-08.md.tmp.55916.1778232828298",
     "Daily/2026-05-07.md.tmp.94104.1778159065916",
-    "llm-wiki/raw/articles/上头Obsidian手把手教你用AI做好知识管理 (Shiki实验室) .docx",
-    "未命名 1.base",
-    "未命名.base",
-    "System/Bases/On This Day.base",
     "System/Templates/Daily.canvas",
-    "System/Attachments/Pasted image 20260407201432.png",
-    "System/Attachments/Pasted image 20260407200929.png",
-    "System/Attachments/Pasted image 20260407200716.png",
-    "System/Attachments/Pasted image 20260407200520.png",
-    "System/Attachments/Pasted image 20260407200445.png",
-    "System/Attachments/Pasted image 20260407195942.png",
-    "System/Attachments/Pasted image 20260407195637.png",
-    "System/Attachments/Pasted image 20260407195354.png",
+    "x/Attachments/Pasted image 20260407201432.png",
+    "x/Attachments/Pasted image 20260407200929.png",
+    "x/Attachments/Pasted image 20260407200716.png",
+    "x/Attachments/Pasted image 20260407200520.png",
+    "x/Attachments/Pasted image 20260407200445.png",
+    "x/Attachments/Pasted image 20260407195942.png",
+    "x/Attachments/Pasted image 20260407195637.png",
+    "x/Attachments/Pasted image 20260407195354.png",
     "Attachments/Pasted image 20260403174215.png",
-    "System/Attachments/d5dafc22-af26-4fa8-9a06-8fd2e487263c.png"
+    "x/Attachments/d5dafc22-af26-4fa8-9a06-8fd2e487263c.png"
   ]
 }
