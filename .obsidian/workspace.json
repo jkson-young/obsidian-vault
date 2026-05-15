@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-15.md",
+                "file": "x/Templates/Template,Properties,Daily Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-15"
+              "title": "Template,Properties,Daily Note"
             }
           }
         ],
@@ -329,8 +329,8 @@
   },
   "active": "f4d2021236c2c49b",
   "lastOpenFiles": [
-    "Atlas/Obsidian/Obsidian Callout.md",
     "Calendar/Journal/Daily/2026-05-15.md",
+    "Atlas/Obsidian/Obsidian Callout.md",
     "Home.md",
     "Calendar/Journal/Daily/2026-03-26.md",
     "+/都2026了，你还不会用Obsidian？.md",

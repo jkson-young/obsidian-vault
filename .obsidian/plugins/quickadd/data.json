@@ -17,7 +17,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "\n- {{DATE:HH:mm}}\n> &emsp{{value}}"
+        "format": "- {{DATE:HH:mm}}\\n    {{value}}"
       },
       "insertAfter": {
         "enabled": false,
