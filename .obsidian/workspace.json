@@ -60,7 +60,7 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
@@ -199,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224416,
+                  "scale": 0.5087618855792582,
                   "close": true
                 }
               },
@@ -334,7 +334,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -357,8 +358,9 @@
   },
   "active": "8077ba72ae96c10e",
   "lastOpenFiles": [
-    "x/Templates/模板-每日日记.md",
+    "x/Templates/Daily-TEMPLATE.md",
     "x/Templates/Template,Properties,Daily Note.md",
+    "x/Templates/模板-每日日记.md",
     "Calendar/Journal/Daily/2026-05-15.md",
     "Calendar/Journal/Daily/2026-05-13.md",
     "Home.md",
@@ -366,7 +368,6 @@
     "x/Bases/Calendar.base",
     "+/test.base",
     "Calendar/Journal/Daily/2026-04-29.md",
-    "x/Templates/Daily-TEMPLATE.md",
     "x/Templates/TEMPLATE-Daily.md",
     "Calendar/Journal/Daily/2026-04-20.md",
     "Calendar/Journal/Daily/2026-05-12.md",

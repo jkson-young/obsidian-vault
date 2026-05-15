@@ -1,11 +1,8 @@
 {
-  "enabledCssSnippets": [
-    "daily-card",
-    "Daily Note Themes"
-  ],
+  "enabledCssSnippets": [],
   "cssTheme": "Prism",
   "theme": "moonstone",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "nativeMenus": false,
   "accentColor": ""
 }
