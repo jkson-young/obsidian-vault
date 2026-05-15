@@ -3,18 +3,18 @@
   "title": "Create daily arxiv paper fetcher",
   "titleGenerationStatus": "success",
   "createdAt": 1778648869957,
-  "updatedAt": 1778837714737,
-  "lastResponseAt": 1778837714737,
+  "updatedAt": 1778841516450,
+  "lastResponseAt": 1778841516450,
   "sessionId": "f5b6676a-27c3-4472-8cbd-d82dae1e9a12",
   "sdkSessionId": "f5b6676a-27c3-4472-8cbd-d82dae1e9a12",
   "usage": {
     "model": "MiniMax-M2.7",
-    "inputTokens": 36814,
+    "inputTokens": 39876,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 36814,
-    "percentage": 18
+    "contextTokens": 39876,
+    "percentage": 20
   },
   "subagentData": {
     "call_function_5lmdsh8xfxjy_1": {
