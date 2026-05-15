@@ -51,7 +51,7 @@
               "state": {
                 "file": "Calendar/Journal/Daily/2026-05-15.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
