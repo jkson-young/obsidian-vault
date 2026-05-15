@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-13.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-13"
+              "title": "模板-每日日记"
             }
           },
           {
@@ -104,7 +104,7 @@
       {
         "id": "33986a37910dad21",
         "type": "tabs",
-        "dimension": 29.880478087649404,
+        "dimension": 29.681274900398407,
         "children": [
           {
             "id": "7c467e5fc5267277",
@@ -138,7 +138,7 @@
       {
         "id": "8e65dd5ce8e931cc",
         "type": "tabs",
-        "dimension": 70.1195219123506,
+        "dimension": 35.2589641434263,
         "children": [
           {
             "id": "d5695461a7d38ce2",
@@ -164,6 +164,50 @@
             }
           }
         ]
+      },
+      {
+        "id": "8ba1ec8e86a91cad",
+        "type": "tabs",
+        "dimension": 35.0597609561753,
+        "children": [
+          {
+            "id": "bc2cf73cace9b14e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "x/Templates/模板-每日日记.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224416,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "模板-每日日记 的关系图"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,8 +220,41 @@
       {
         "id": "abc6a9e391248046",
         "type": "tabs",
-        "dimension": 80.15873015873017,
+        "dimension": 99.99999999999999,
         "children": [
+          {
+            "id": "393c4c370c0e1672",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "x/Templates/模板-每日日记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "模板-每日日记 的出链列表"
+            }
+          },
+          {
+            "id": "dd1e47912521528b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "x/Templates/模板-每日日记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "模板-每日日记 的反向链接列表"
+            }
+          },
           {
             "id": "3dfb693e616706bd",
             "type": "leaf",
@@ -208,55 +285,18 @@
             }
           },
           {
-            "id": "bc2cf73cace9b14e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224416,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的关系图"
-            }
-          },
-          {
             "id": "8e99a5c0a53c4d8b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-13.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-13 的大纲"
+              "title": "模板-每日日记 的大纲"
             }
           },
           {
@@ -290,48 +330,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "db3f7881ea1efff1",
-        "type": "tabs",
-        "dimension": 19.841269841269842,
-        "children": [
-          {
-            "id": "393c4c370c0e1672",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Work/途邦SCRM-易乐途门店设备信息上报美团测试.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "途邦SCRM-易乐途门店设备信息上报美团测试 的出链列表"
-            }
-          },
-          {
-            "id": "dd1e47912521528b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Calendar/Journal/Daily/2026-05-13.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "2026-05-13 的反向链接列表"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -356,13 +355,13 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "d5695461a7d38ce2",
+  "active": "8077ba72ae96c10e",
   "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-05-13.md",
     "Home.md",
     "x/Habits Tracker.md",
     "x/Bases/Calendar.base",
     "+/test.base",
-    "Calendar/Journal/Daily/2026-05-13.md",
     "Calendar/Journal/Daily/2026-04-29.md",
     "x/Templates/模板-每日日记.md",
     "x/Templates/Daily-TEMPLATE.md",
