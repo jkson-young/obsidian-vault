@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "x/Templates/Template,Properties,Daily Note.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Template,Properties,Daily Note"
+              "title": "模板-每日日记"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "x/Templates/Template,Properties,Daily Note.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Template,Properties,Daily Note 的关系图"
+              "title": "模板-每日日记 的关系图"
             }
           }
         ]
@@ -228,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "x/Templates/Template,Properties,Daily Note.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Template,Properties,Daily Note 的出链列表"
+              "title": "模板-每日日记 的出链列表"
             }
           },
           {
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "x/Templates/Template,Properties,Daily Note.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Template,Properties,Daily Note 的反向链接列表"
+              "title": "模板-每日日记 的反向链接列表"
             }
           },
           {
@@ -290,13 +290,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "x/Templates/Template,Properties,Daily Note.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Template,Properties,Daily Note 的大纲"
+              "title": "模板-每日日记 的大纲"
             }
           },
           {
@@ -358,10 +358,11 @@
   },
   "active": "8077ba72ae96c10e",
   "lastOpenFiles": [
-    "x/Templates/Daily-TEMPLATE.md",
     "x/Templates/Template,Properties,Daily Note.md",
     "x/Templates/模板-每日日记.md",
     "Calendar/Journal/Daily/2026-05-15.md",
+    "x/Templates/Daily-TEMPLATE.md",
+    "未命名.md",
     "Calendar/Journal/Daily/2026-05-13.md",
     "Home.md",
     "x/Habits Tracker.md",
@@ -387,7 +388,6 @@
     "2026-W18.md",
     "Atlas/Zettelkasten.md",
     "Atlas/都2026了，你还不会用Obsidian？.md",
-    "Atlas/转正答辩PPT.md",
     "Efforts/途邦scrm",
     "Efforts/活动助手",
     "Efforts",

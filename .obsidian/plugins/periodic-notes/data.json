@@ -10,7 +10,7 @@
         "enabled": true,
         "openAtStartup": false,
         "format": "",
-        "templatePath": "x/Templates/模板-每日日记.md",
+        "templatePath": "x/Templates/Template,Properties,Daily Note.md",
         "folder": "Calendar/Journal/Daily"
       },
       "week": {
