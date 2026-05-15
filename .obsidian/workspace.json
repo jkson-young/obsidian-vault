@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "b727d448cb1af7bb",
+            "id": "8077ba72ae96c10e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/fddasfsdf.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fddasfsdf"
+              "title": "模板-每日日记"
             }
           }
         ],
@@ -285,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+/fddasfsdf.md",
+                "file": "x/Templates/模板-每日日记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "fddasfsdf 的反向链接列表"
+              "title": "模板-每日日记 的反向链接列表"
             }
           }
         ],
@@ -324,43 +324,44 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "b727d448cb1af7bb",
+  "active": "8077ba72ae96c10e",
   "lastOpenFiles": [
+    "x/Templates/Daily-TEMPLATE.md",
+    "x/Templates/TEMPLATE-Daily.md",
+    "x/Templates/模板-每日日记.md",
+    "Calendar/Journal/Daily/2026-04-20.md",
+    "Calendar/Journal/Daily/2026-05-13.md",
+    "Calendar/Journal/Daily/2026-04-29.md",
+    "Calendar/Journal/Daily/2026-05-12.md",
+    "Calendar/Journal/Daily/2026-05-08.md",
+    "Calendar/Journal/Daily/2026-05-07.md",
+    "Calendar/Journal/Daily/2026-04-24.md",
+    "Calendar/Journal/Daily/2026-05-15.md",
+    "Calendar/Journal/Daily/2026-03-30.md",
+    "Calendar/Journal/Daily/2026-03-29.md",
+    "Calendar/Journal/Daily/2026-03-31.md",
+    "Calendar/Journal/Daily/2026-03-27.md",
+    "Calendar/Journal/Daily/2026-03-28.md",
+    "Calendar/Journal/Daily/2026-03-26.md",
+    "x/Bases/Calendar.base",
+    "x/Bases/On This Day.base",
     "test.base",
     "+/fddasfsdf.md",
-    "x/Bases/Calendar.base",
     "Home.md",
-    "x/Bases/On This Day.base",
-    "Calendar/Journal/Daily/2026-05-15.md",
     "Calendar/Journal",
     "+/2026-05-15 1525.md",
     "2026-W18.md",
     "Habits Tracker.md",
-    "Calendar/Journal/Daily/2026-03-26.md",
     "Atlas/Zettelkasten.md",
     "Atlas/都2026了，你还不会用Obsidian？.md",
     "Atlas/转正答辩PPT.md",
     "Clippings/Prompt Engineering Full Course.md",
-    "Efforts/途邦scrm/途邦SCRM-易乐途门店设备信息上报美团测试.md",
-    "Efforts/活动助手/活动助手测试环境安装.md",
     "Efforts/途邦scrm",
-    "llm-wiki/log/20260429.md",
     "Efforts/活动助手",
-    "llm-wiki/log/20260427.md",
-    "llm-wiki/log/20260423.md",
-    "llm-wiki/log/20260422.md",
-    "Atlas/工具清单：按层拆解.md",
-    "SKILL.md",
     "Efforts",
     "Calendar",
     "Atlas",
     "+",
-    "llm-wiki/wiki/concepts/RAG.md",
-    "llm-wiki/wiki/concepts/Obsidian.md",
-    "llm-wiki/wiki/concepts/LLM作为思考伙伴.md",
-    "llm-wiki/wiki/concepts/LLM Wiki.md",
-    "llm-wiki/wiki/concepts/Claude Code.md",
-    "llm-wiki/wiki/concepts/第二大脑.md",
     "System/Templates/Daily.canvas",
     "x/Attachments/Pasted image 20260407201432.png",
     "x/Attachments/Pasted image 20260407200929.png",
