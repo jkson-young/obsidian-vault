@@ -43,7 +43,8 @@
               "title": "Pkmer Market"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,7 +301,7 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "3a8cab11c18cdac4",
+  "active": "4130b6d68759ab89",
   "lastOpenFiles": [
     "Calendar/Journal/Daily/2026-05-15.md",
     "Calendar/Journal/Daily/2026-03-26.md",
