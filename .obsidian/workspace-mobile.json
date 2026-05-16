@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-15.md",
+                "file": "Calendar/Journal/Daily/2026-05-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-15"
+              "title": "2026-05-16"
             }
           }
         ]
@@ -200,5 +200,8 @@
     }
   },
   "active": "2ffc8025e289164d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-05-15.md",
+    "Calendar/Journal/Daily/2026-05-16.md"
+  ]
 }
