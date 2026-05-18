@@ -68,54 +68,6 @@
             }
           },
           {
-            "id": "5d81db7f2938dbc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Journal/Daily/2026-05-17.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-17"
-            }
-          },
-          {
-            "id": "935817e287f74d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Journal/Daily/2026-05-17.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-17"
-            }
-          },
-          {
             "id": "64f4291c7d1fab6b",
             "type": "leaf",
             "state": {
@@ -143,17 +95,28 @@
             "id": "a844f043b7646c10",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "x/Bases/Calendar.base",
-                "viewName": "Calendar"
+                "file": "Calendar/Journal/Daily/2026-05-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "2026-05-17"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -413,35 +376,35 @@
       "cmdr:QuickAdd: Run QuickAdd": false
     }
   },
-  "active": "64f4291c7d1fab6b",
+  "active": "a844f043b7646c10",
   "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-04-06.md",
+    "Calendar/Journal/Daily/2026-04-08.md",
+    "Calendar/Journal/Daily/2026-04-09.md",
+    "Calendar/Journal/Daily/2026-04-24.md",
+    "Calendar/Journal/Daily/2026-05-13.md",
+    "Calendar/Journal/Daily/2026-05-17.md",
+    "Calendar/Journal/Daily/2026-05-15.md",
+    "Calendar/Journal/Daily/2026-05-16.md",
+    "+/金字塔原理.md",
+    "+/Note-Taking.md",
+    "+/《给阿嬷的情书》.md",
+    "+/《救援计划》.md",
+    "Calendar/Journal/Daily/2026-03-27.md",
+    "Calendar/Journal/Daily/2026-03-26.md",
+    "+/Zettelkasten.md",
+    "Calendar/Journal/Daily/2026-04-04.md",
+    "x/Bases/Calendar.base",
     "x/Templates/Template,Properties,Daily Note.md",
     "x/Templates/Template,Plus.md",
     "x/Habits Tracker.md",
-    "+/《给阿嬷的情书》.md",
-    "Calendar/Journal/Daily/2026-03-26.md",
-    "+/《救援计划》.md",
-    "Calendar/Journal/Daily/2026-04-04.md",
-    "x/Bases/Calendar.base",
-    "Calendar/Journal/Daily/2026-05-17.md",
     "Home.md",
-    "Calendar/Journal/Daily/2026-05-16.md",
-    "Calendar/Journal/Daily/2026-05-15.md",
-    "Calendar/Journal/Daily/2026-05-13.md",
-    "Calendar/Journal/Daily/2026-04-24.md",
-    "Calendar/Journal/Daily/2026-04-09.md",
-    "Calendar/Journal/Daily/2026-04-08.md",
-    "Calendar/Journal/Daily/2026-04-06.md",
     "Calendar/Journal/Daily/2026-04-05.md",
     "Calendar/Journal/Daily/2026-04-01.md",
     "Calendar/Journal/Daily/2026-03-31.md",
     "Calendar/Journal/Daily/2026-03-30.md",
-    "Calendar/Journal/Daily/2026-03-27.md",
     "Atlas/Obsidian/Obsidian Callout.md",
     "+/都2026了，你还不会用Obsidian？.md",
-    "Atlas/工具清单：按层拆解.md",
-    "+/金字塔原理.md",
-    "Atlas/转正答辩PPT.md",
     "Calendar/Journal/Daily/2026-04-01.md.tmp.13096.1778841510898",
     "Calendar/Journal/Daily/2026-04-29.md.tmp.13096.1778837633766",
     "Calendar/Journal/Daily/2026-04-24.md.tmp.13096.1778837633730",
