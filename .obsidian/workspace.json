@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-18.md",
+                "file": "+/《给阿嬷的情书》.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-18"
+              "title": "《给阿嬷的情书》"
             }
           }
         ],
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-18.md",
+                "file": "+/《给阿嬷的情书》.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-05-18 的关系图"
+              "title": "《给阿嬷的情书》 的关系图"
             }
           },
           {
@@ -378,8 +378,8 @@
   },
   "active": "a844f043b7646c10",
   "lastOpenFiles": [
-    "x/Templates/Template,Properties,Daily Note.md",
     "Calendar/Journal/Daily/2026-05-18.md",
+    "x/Templates/Template,Properties,Daily Note.md",
     "Calendar/Journal/Daily/2026-05-17.md",
     "Calendar/Journal/Daily/2026-03-26.md",
     "Calendar/Journal/Daily/2026-03-27.md",
