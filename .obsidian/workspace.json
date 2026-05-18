@@ -71,24 +71,13 @@
             "id": "5d81db7f2938dbc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "x/Bases/Calendar.base",
+                "viewName": "Calendar"
               },
-              "icon": "lucide-file",
-              "title": "2026-05-15"
+              "icon": "lucide-table",
+              "title": "Calendar"
             }
           }
         ],
@@ -168,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 339.5
   },
   "right": {
     "id": "704294a796e62412",
@@ -246,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "x/Bases/Calendar.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +263,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Home 的关系图"
+              "title": "Calendar 的关系图"
             }
           },
           {
@@ -354,10 +343,13 @@
   },
   "active": "5d81db7f2938dbc4",
   "lastOpenFiles": [
-    "x/Templates/Template,Properties,Daily Note.md",
-    "Calendar/Journal/Daily/2026-05-15.md",
-    "Atlas/Obsidian/Obsidian Callout.md",
     "Home.md",
+    "Calendar/Journal/Daily/2026-05-17.md",
+    "Calendar/Journal/Daily/2026-05-16.md",
+    "Calendar/Journal/Daily/2026-05-15.md",
+    "Calendar/Journal/Daily/2026-05-13.md",
+    "x/Templates/Template,Properties,Daily Note.md",
+    "Atlas/Obsidian/Obsidian Callout.md",
     "Calendar/Journal/Daily/2026-03-26.md",
     "+/都2026了，你还不会用Obsidian？.md",
     "Atlas/工具清单：按层拆解.md",
@@ -368,7 +360,6 @@
     "Calendar/Journal/Daily/2026-04-04.md",
     "Calendar/Journal/Daily/2026-03-27.md",
     "Calendar/Journal/Daily/2026-04-08.md",
-    "Calendar/Journal/Daily/2026-05-13.md",
     "Calendar/Journal/Daily/2026-04-01.md",
     "Calendar/Journal/Daily/2026-03-31.md",
     "Calendar/Journal/Daily/2026-03-30.md",
@@ -380,8 +371,6 @@
     "Calendar/Journal/Daily/2026-04-09.md",
     "Calendar/Journal/Daily/2026-03-28.md",
     "Calendar/Journal/Daily/2026-03-29.md",
-    "Calendar/Journal/Daily/2026-04-02.md",
-    "Calendar/Journal/Daily/2026-04-03.md",
     "Calendar/Journal/Daily/2026-04-29.md.tmp.13096.1778837633766",
     "Calendar/Journal/Daily/2026-04-24.md.tmp.13096.1778837633730",
     "Calendar/Journal/Daily/2026-04-23.md.tmp.13096.1778837621389",
