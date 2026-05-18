@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-17.md",
+                "file": "x/Templates/Template,Properties,Daily Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-17"
+              "title": "Template,Properties,Daily Note"
             }
           }
         ],
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Journal/Daily/2026-05-17.md",
+                "file": "x/Templates/Template,Properties,Daily Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,7 +298,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2026-05-17 的关系图"
+              "title": "Template,Properties,Daily Note 的关系图"
             }
           },
           {
@@ -378,33 +378,33 @@
   },
   "active": "a844f043b7646c10",
   "lastOpenFiles": [
+    "Calendar/Journal/Daily/2026-05-18.md",
+    "x/Templates/Template,Properties,Daily Note.md",
+    "Calendar/Journal/Daily/2026-05-17.md",
+    "Calendar/Journal/Daily/2026-03-26.md",
+    "Calendar/Journal/Daily/2026-03-27.md",
+    "Calendar/Journal/Daily/2026-03-30.md",
+    "Calendar/Journal/Daily/2026-03-31.md",
+    "Calendar/Journal/Daily/2026-04-01.md",
+    "Calendar/Journal/Daily/2026-04-04.md",
+    "Calendar/Journal/Daily/2026-04-05.md",
     "Calendar/Journal/Daily/2026-04-06.md",
     "Calendar/Journal/Daily/2026-04-08.md",
     "Calendar/Journal/Daily/2026-04-09.md",
     "Calendar/Journal/Daily/2026-04-24.md",
     "Calendar/Journal/Daily/2026-05-13.md",
-    "Calendar/Journal/Daily/2026-05-17.md",
     "Calendar/Journal/Daily/2026-05-15.md",
     "Calendar/Journal/Daily/2026-05-16.md",
     "+/金字塔原理.md",
     "+/Note-Taking.md",
     "+/《给阿嬷的情书》.md",
     "+/《救援计划》.md",
-    "Calendar/Journal/Daily/2026-03-27.md",
-    "Calendar/Journal/Daily/2026-03-26.md",
     "+/Zettelkasten.md",
-    "Calendar/Journal/Daily/2026-04-04.md",
     "x/Bases/Calendar.base",
-    "x/Templates/Template,Properties,Daily Note.md",
     "x/Templates/Template,Plus.md",
     "x/Habits Tracker.md",
     "Home.md",
-    "Calendar/Journal/Daily/2026-04-05.md",
-    "Calendar/Journal/Daily/2026-04-01.md",
-    "Calendar/Journal/Daily/2026-03-31.md",
-    "Calendar/Journal/Daily/2026-03-30.md",
     "Atlas/Obsidian/Obsidian Callout.md",
-    "+/都2026了，你还不会用Obsidian？.md",
     "Calendar/Journal/Daily/2026-04-01.md.tmp.13096.1778841510898",
     "Calendar/Journal/Daily/2026-04-29.md.tmp.13096.1778837633766",
     "Calendar/Journal/Daily/2026-04-24.md.tmp.13096.1778837633730",

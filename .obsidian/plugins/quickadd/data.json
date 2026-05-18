@@ -20,8 +20,8 @@
         "format": "- {{DATE:HH:mm}}\\n    {{value}}"
       },
       "insertAfter": {
-        "enabled": false,
-        "after": "",
+        "enabled": true,
+        "after": "Log",
         "insertAtEnd": false,
         "considerSubsections": false,
         "createIfNotFound": false,
@@ -34,7 +34,7 @@
         "enabled": false,
         "direction": "below"
       },
-      "prepend": true,
+      "prepend": false,
       "task": false,
       "openFile": true,
       "fileOpening": {
